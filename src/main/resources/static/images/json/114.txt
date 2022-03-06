@@ -1,0 +1,127 @@
+{
+"url": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=",
+"title": null,
+"thirdOne": null,
+"nodes": [
+{
+"url": "<span class='location'>(114:1:1)</span><br><a href='/qurandictionary.jsp?q=qwl#(114:1:1)'>qul</a><br>Say,",
+"title": "<a href='/wordmorphology.jsp?location=(114:1:1)'><img src='/wordimage?id=77410'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine singular imperative verb <div class='arabicGrammar'> فعل أمر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:1:2)</span><br><a href='/qurandictionary.jsp?q=Ew*#(114:1:2)'>aʿūdhu</a><br>'I seek refuge",
+"title": "<a name='(114:1:2)' href='/wordmorphology.jsp?location=(114:1:2)'><img src='/wordimage?id=77411'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 1st person singular imperfect verb <div class='arabicGrammar'> فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:1:3)</span><br><a href='/qurandictionary.jsp?q=rbb#(114:1:3)'>birabbi</a><br>in (the) Lord",
+"title": "<a name='(114:1:3)' href='/wordmorphology.jsp?location=(114:1:3)'><img src='/wordimage?id=77412'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive masculine noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:1:4)</span><br><a href='/qurandictionary.jsp?q=nws#(114:1:4)'>l-nāsi</a><br>(of) mankind,",
+"title": "<img class='num' src='/images/verses/1.png'><a name='(114:1:4)' href='/wordmorphology.jsp?location=(114:1:4)'><img src='/wordimage?id=77413'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:2:1)</span><br><a href='/qurandictionary.jsp?q=mlk#(114:2:1)'>maliki</a><br>(The) King",
+"title": "<a name='(114:2:1)' href='/wordmorphology.jsp?location=(114:2:1)'><img src='/wordimage?id=77414'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine singular noun → <a href='/concept.jsp?id=king'>King</a> <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:2:2)</span><br><a href='/qurandictionary.jsp?q=nws#(114:2:2)'>l-nāsi</a><br>(of) mankind,",
+"title": "<img class='num' src='/images/verses/2.png'><a name='(114:2:2)' href='/wordmorphology.jsp?location=(114:2:2)'><img src='/wordimage?id=77415'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:3:1)</span><br><a href='/qurandictionary.jsp?q=Alh#(114:3:1)'>ilāhi</a><br>(The) God",
+"title": "<a name='(114:3:1)' href='/wordmorphology.jsp?location=(114:3:1)'><img src='/wordimage?id=77416'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine singular noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:3:2)</span><br><a href='/qurandictionary.jsp?q=nws#(114:3:2)'>l-nāsi</a><br>(of) mankind,",
+"title": "<img class='num' src='/images/verses/3.png'><a name='(114:3:2)' href='/wordmorphology.jsp?location=(114:3:2)'><img src='/wordimage?id=77417'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:4:1)</span><br><span class='phonetic'>min</span><br>From",
+"title": "<a name='(114:4:1)' href='/wordmorphology.jsp?location=(114:4:1)'><img src='/wordimage?id=77418'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:4:2)</span><br><a href='/qurandictionary.jsp?q=$rr#(114:4:2)'>sharri</a><br>(the) evil",
+"title": "<a name='(114:4:2)' href='/wordmorphology.jsp?location=(114:4:2)'><img src='/wordimage?id=77419'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine singular noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:4:3)</span><br><a href='/qurandictionary.jsp?q=wsws#(114:4:3)'>l-waswāsi</a><br>(of) the whisperer,",
+"title": "<a name='(114:4:3)' href='/wordmorphology.jsp?location=(114:4:3)'><img src='/wordimage?id=77420'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine singular noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:4:4)</span><br><a href='/qurandictionary.jsp?q=xns#(114:4:4)'>l-khanāsi</a><br>the one who withdraws,",
+"title": "<img class='num' src='/images/verses/4.png'><a name='(114:4:4)' href='/wordmorphology.jsp?location=(114:4:4)'><img src='/wordimage?id=77421'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:5:1)</span><br><a href='qurandictionary.jsp?q=%7Bl%7Ea*iY#(114:5:1)'>alladhī</a><br>The one who",
+"title": "<a name='(114:5:1)' href='/wordmorphology.jsp?location=(114:5:1)'><img src='/wordimage?id=77422'></a>",
+"thirdOne": "<b class='segGold'>REL</b> – masculine singular relative pronoun <div class='arabicGrammar'> اسم موصول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:5:2)</span><br><a href='/qurandictionary.jsp?q=wsws#(114:5:2)'>yuwaswisu</a><br>whispers",
+"title": "<a name='(114:5:2)' href='/wordmorphology.jsp?location=(114:5:2)'><img src='/wordimage?id=77423'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular imperfect verb <div class='arabicGrammar'> فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:5:3)</span><br><span class='phonetic'>fī</span><br>in",
+"title": "<a name='(114:5:3)' href='/wordmorphology.jsp?location=(114:5:3)'><img src='/wordimage?id=77424'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:5:4)</span><br><a href='/qurandictionary.jsp?q=Sdr#(114:5:4)'>ṣudūri</a><br>(the) breasts",
+"title": "<a name='(114:5:4)' href='/wordmorphology.jsp?location=(114:5:4)'><img src='/wordimage?id=77425'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:5:5)</span><br><a href='/qurandictionary.jsp?q=nws#(114:5:5)'>l-nāsi</a><br>(of) mankind,",
+"title": "<img class='num' src='/images/verses/5.png'><a name='(114:5:5)' href='/wordmorphology.jsp?location=(114:5:5)'><img src='/wordimage?id=77426'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:6:1)</span><br><span class='phonetic'>mina</span><br>From",
+"title": "<a name='(114:6:1)' href='/wordmorphology.jsp?location=(114:6:1)'><img src='/wordimage?id=77427'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:6:2)</span><br><a href='/qurandictionary.jsp?q=jnn#(114:6:2)'>l-jinati</a><br>the jinn",
+"title": "<a name='(114:6:2)' href='/wordmorphology.jsp?location=(114:6:2)'><img src='/wordimage?id=77428'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive feminine noun → <a href='/concept.jsp?id=jinn'>Jinn</a> <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(114:6:3)</span><br><a href='/qurandictionary.jsp?q=nws#(114:6:3)'>wal-nāsi</a><br>and men.",
+"title": "<img class='num' src='/images/verses/6.png'><a name='(114:6:3)' href='/wordmorphology.jsp?location=(114:6:3)'><img src='/wordimage?id=77429'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> الواو عاطفة <br>اسم مجرور </div>",
+"nodes": null
+}
+]
+}

@@ -1,0 +1,1807 @@
+{
+"url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=",
+"title": null,
+"thirdOne": null,
+"nodes": [
+{
+"url": "<span class='location'>(68:1:1)</span><br><span class='phonetic'>noon</span><br>Nun.",
+"title": "<a href='/wordmorphology.jsp?location=(68:1:1)'><img src='/wordimage?id=72794'></a>",
+"thirdOne": "<b class='segOrange'>INL</b> – Quranic initials <div class='arabicGrammar'> حروف مقطعة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:1:2)</span><br><a href='/qurandictionary.jsp?q=qlm#(68:1:2)'>wal-qalami</a><br>By the pen",
+"title": "<a name='(68:1:2)' href='/wordmorphology.jsp?location=(68:1:2)'><img src='/wordimage?id=72795'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>wa</i> (oath)<br><b class='segSky'>N</b> – genitive masculine noun → <a href='/concept.jsp?id=pen'>Pen</a> <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:1:3)</span><br><span class='phonetic'>wamā</span><br>and what",
+"title": "<a name='(68:1:3)' href='/wordmorphology.jsp?location=(68:1:3)'><img src='/wordimage?id=72796'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segGold'>REL</b> – relative pronoun <div class='arabicGrammar'> الواو عاطفة <br>اسم موصول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:1:4)</span><br><a href='/qurandictionary.jsp?q=sTr#(68:1:4)'>yasṭurūna</a><br>they write,",
+"title": "<img class='num' src='/images/verses/1.png'><a name='(68:1:4)' href='/wordmorphology.jsp?location=(68:1:4)'><img src='/wordimage?id=72797'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:2:1)</span><br><span class='phonetic'>mā</span><br>Not",
+"title": "<a name='(68:2:1)' href='/wordmorphology.jsp?location=(68:2:1)'><img src='/wordimage?id=72798'></a>",
+"thirdOne": "<b class='segRed'>NEG</b> – negative particle <div class='arabicGrammar'> نافية بمنزلة «ليس» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:2:2)</span><br><span class='phonetic'>anta</span><br>you (are),",
+"title": "<a name='(68:2:2)' href='/wordmorphology.jsp?location=(68:2:2)'><img src='/wordimage?id=72799'></a>",
+"thirdOne": "<b class='segMetal'>PRON</b> – 2nd person masculine singular personal pronoun <div class='arabicGrammar'> ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:2:3)</span><br><a href='/qurandictionary.jsp?q=nEm#(68:2:3)'>biniʿ'mati</a><br>by (the) Grace",
+"title": "<a name='(68:2:3)' href='/wordmorphology.jsp?location=(68:2:3)'><img src='/wordimage?id=72800'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive feminine noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:2:4)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:2:4)'>rabbika</a><br>(of) your Lord,",
+"title": "<a name='(68:2:4)' href='/wordmorphology.jsp?location=(68:2:4)'><img src='/wordimage?id=72801'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 2nd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم مجرور والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:2:5)</span><br><a href='/qurandictionary.jsp?q=jnn#(68:2:5)'>bimajnūnin</a><br>a madman.",
+"title": "<img class='num' src='/images/verses/2.png'><a name='(68:2:5)' href='/wordmorphology.jsp?location=(68:2:5)'><img src='/wordimage?id=72802'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive masculine indefinite passive participle <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:3:1)</span><br><span class='phonetic'>wa-inna</span><br>And indeed,",
+"title": "<a name='(68:3:1)' href='/wordmorphology.jsp?location=(68:3:1)'><img src='/wordimage?id=72803'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segPink'>ACC</b> – accusative particle <div class='arabicGrammar'> الواو استئنافية <br>حرف نصب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:3:2)</span><br><span class='phonetic'>laka</span><br>for you",
+"title": "<a name='(68:3:2)' href='/wordmorphology.jsp?location=(68:3:2)'><img src='/wordimage?id=72804'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 2nd person masculine singular personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:3:3)</span><br><a href='/qurandictionary.jsp?q=Ajr#(68:3:3)'>la-ajran</a><br>surely (is) a reward",
+"title": "<a name='(68:3:3)' href='/wordmorphology.jsp?location=(68:3:3)'><img src='/wordimage?id=72805'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segSky'>N</b> – accusative masculine indefinite noun <div class='arabicGrammar'> اللام لام التوكيد <br>اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:3:4)</span><br><a href='/qurandictionary.jsp?q=gyr#(68:3:4)'>ghayra</a><br>without",
+"title": "<a name='(68:3:4)' href='/wordmorphology.jsp?location=(68:3:4)'><img src='/wordimage?id=72806'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:3:5)</span><br><a href='/qurandictionary.jsp?q=mnn#(68:3:5)'>mamnūnin</a><br>end.",
+"title": "<img class='num' src='/images/verses/3.png'><a name='(68:3:5)' href='/wordmorphology.jsp?location=(68:3:5)'><img src='/wordimage?id=72807'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine indefinite passive participle <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:4:1)</span><br><span class='phonetic'>wa-innaka</span><br>And indeed, you",
+"title": "<a name='(68:4:1)' href='/wordmorphology.jsp?location=(68:4:1)'><img src='/wordimage?id=72808'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 2nd person masculine singular object pronoun <div class='arabicGrammar'> الواو عاطفة <br>حرف نصب والكاف ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:4:2)</span><br><span class='phonetic'>laʿalā</span><br>surely (are)",
+"title": "<a name='(68:4:2)' href='/wordmorphology.jsp?location=(68:4:2)'><img src='/wordimage?id=72809'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segRust'>P</b> – preposition <div class='arabicGrammar'> اللام لام التوكيد <br>حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:4:3)</span><br><a href='/qurandictionary.jsp?q=xlq#(68:4:3)'>khuluqin</a><br>(of) a moral character",
+"title": "<a name='(68:4:3)' href='/wordmorphology.jsp?location=(68:4:3)'><img src='/wordimage?id=72810'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:4:4)</span><br><a href='/qurandictionary.jsp?q=EZm#(68:4:4)'>ʿaẓīmin</a><br>great.",
+"title": "<img class='num' src='/images/verses/4.png'><a name='(68:4:4)' href='/wordmorphology.jsp?location=(68:4:4)'><img src='/wordimage?id=72811'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular indefinite adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:5:1)</span><br><a href='/qurandictionary.jsp?q=bSr#(68:5:1)'>fasatub'ṣiru</a><br>So you will see",
+"title": "<a name='(68:5:1)' href='/wordmorphology.jsp?location=(68:5:1)'><img src='/wordimage?id=72812'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segPink'>FUT</b> – prefixed future particle <i class='ab'>sa</i><br><b class='segSeagreen'>V</b> – 2nd person masculine singular (form IV) imperfect verb <div class='arabicGrammar'> الفاء استئنافية <br>حرف استقبال <br>فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:5:2)</span><br><a href='/qurandictionary.jsp?q=bSr#(68:5:2)'>wayub'ṣirūna</a><br>and they will see,",
+"title": "<img class='num' src='/images/verses/5.png'><a name='(68:5:2)' href='/wordmorphology.jsp?location=(68:5:2)'><img src='/wordimage?id=72813'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine plural (form IV) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الواو عاطفة <br>فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:6:1)</span><br><span class='phonetic'>bi-ayyikumu</span><br>Which of you",
+"title": "<a name='(68:6:1)' href='/wordmorphology.jsp?location=(68:6:1)'><img src='/wordimage?id=72814'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segRose'>INTG</b> – genitive interrogative noun<br><b class='segMetal'>PRON</b> – 2nd person masculine plural object pronoun <div class='arabicGrammar'> جار ومجرور والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:6:2)</span><br><a href='/qurandictionary.jsp?q=ftn#(68:6:2)'>l-maftūnu</a><br>(is) the afflicted one.",
+"title": "<img class='num' src='/images/verses/6.png'><a name='(68:6:2)' href='/wordmorphology.jsp?location=(68:6:2)'><img src='/wordimage?id=72815'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine passive participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:1)</span><br><span class='phonetic'>inna</span><br>Indeed,",
+"title": "<a href='/wordmorphology.jsp?location=(68:7:1)'><img src='/wordimage?id=72816'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle <div class='arabicGrammar'> حرف نصب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:2)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:7:2)'>rabbaka</a><br>your Lord,",
+"title": "<a name='(68:7:2)' href='/wordmorphology.jsp?location=(68:7:2)'><img src='/wordimage?id=72817'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine noun<br><b class='segMetal'>PRON</b> – 2nd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم منصوب والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:3)</span><br><span class='phonetic'>huwa</span><br>He",
+"title": "<a name='(68:7:3)' href='/wordmorphology.jsp?location=(68:7:3)'><img src='/wordimage?id=72818'></a>",
+"thirdOne": "<b class='segMetal'>PRON</b> – 3rd person masculine singular personal pronoun <div class='arabicGrammar'> ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:4)</span><br><a href='/qurandictionary.jsp?q=Elm#(68:7:4)'>aʿlamu</a><br>(is) most knowing",
+"title": "<a name='(68:7:4)' href='/wordmorphology.jsp?location=(68:7:4)'><img src='/wordimage?id=72819'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine singular noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:5)</span><br><span class='phonetic'>biman</span><br>of (he) who",
+"title": "<a name='(68:7:5)' href='/wordmorphology.jsp?location=(68:7:5)'><img src='/wordimage?id=72820'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segGold'>REL</b> – relative pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:6)</span><br><a href='/qurandictionary.jsp?q=Dll#(68:7:6)'>ḍalla</a><br>has strayed",
+"title": "<a name='(68:7:6)' href='/wordmorphology.jsp?location=(68:7:6)'><img src='/wordimage?id=72821'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular perfect verb <div class='arabicGrammar'> فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:7)</span><br><span class='phonetic'>ʿan</span><br>from",
+"title": "<a name='(68:7:7)' href='/wordmorphology.jsp?location=(68:7:7)'><img src='/wordimage?id=72822'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:8)</span><br><a href='/qurandictionary.jsp?q=sbl#(68:7:8)'>sabīlihi</a><br>His way,",
+"title": "<a name='(68:7:8)' href='/wordmorphology.jsp?location=(68:7:8)'><img src='/wordimage?id=72823'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 3rd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم مجرور والهاء ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:9)</span><br><span class='phonetic'>wahuwa</span><br>and He",
+"title": "<a name='(68:7:9)' href='/wordmorphology.jsp?location=(68:7:9)'><img src='/wordimage?id=72824'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segMetal'>PRON</b> – 3rd person masculine singular personal pronoun <div class='arabicGrammar'> الواو استئنافية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:10)</span><br><a href='/qurandictionary.jsp?q=Elm#(68:7:10)'>aʿlamu</a><br>(is) most knowing",
+"title": "<a name='(68:7:10)' href='/wordmorphology.jsp?location=(68:7:10)'><img src='/wordimage?id=72825'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine singular noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:7:11)</span><br><a href='/qurandictionary.jsp?q=hdy#(68:7:11)'>bil-muh'tadīna</a><br>of the guided ones.",
+"title": "<img class='num' src='/images/verses/7.png'><a name='(68:7:11)' href='/wordmorphology.jsp?location=(68:7:11)'><img src='/wordimage?id=72826'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive masculine plural (form VIII) active participle <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:8:1)</span><br><span class='phonetic'>falā</span><br>So (do) not",
+"title": "<a name='(68:8:1)' href='/wordmorphology.jsp?location=(68:8:1)'><img src='/wordimage?id=72827'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segRed'>PRO</b> – prohibition particle <div class='arabicGrammar'> الفاء استئنافية <br>حرف نهي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:8:2)</span><br><a href='/qurandictionary.jsp?q=TwE#(68:8:2)'>tuṭiʿi</a><br>obey",
+"title": "<a name='(68:8:2)' href='/wordmorphology.jsp?location=(68:8:2)'><img src='/wordimage?id=72828'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine singular (form IV) imperfect verb, jussive mood <div class='arabicGrammar'> فعل مضارع مجزوم </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:8:3)</span><br><a href='/qurandictionary.jsp?q=k*b#(68:8:3)'>l-mukadhibīna</a><br>the deniers.",
+"title": "<img class='num' src='/images/verses/8.png'><a name='(68:8:3)' href='/wordmorphology.jsp?location=(68:8:3)'><img src='/wordimage?id=72829'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural (form II) active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:9:1)</span><br><a href='/qurandictionary.jsp?q=wdd#(68:9:1)'>waddū</a><br>They wish",
+"title": "<a name='(68:9:1)' href='/wordmorphology.jsp?location=(68:9:1)'><img src='/wordimage?id=72830'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:9:2)</span><br><span class='phonetic'>law</span><br>that",
+"title": "<a name='(68:9:2)' href='/wordmorphology.jsp?location=(68:9:2)'><img src='/wordimage?id=72831'></a>",
+"thirdOne": "<b class='segGold'>SUB</b> – subordinating conjunction <div class='arabicGrammar'> حرف مصدري </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:9:3)</span><br><a href='/qurandictionary.jsp?q=dhn#(68:9:3)'>tud'hinu</a><br>you should compromise,",
+"title": "<a name='(68:9:3)' href='/wordmorphology.jsp?location=(68:9:3)'><img src='/wordimage?id=72832'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine singular (form IV) imperfect verb <div class='arabicGrammar'> فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:9:4)</span><br><a href='/qurandictionary.jsp?q=dhn#(68:9:4)'>fayud'hinūna</a><br>so they would compromise.",
+"title": "<img class='num' src='/images/verses/9.png'><a name='(68:9:4)' href='/wordmorphology.jsp?location=(68:9:4)'><img src='/wordimage?id=72833'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>fa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine plural (form IV) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الفاء عاطفة <br>فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:10:1)</span><br><span class='phonetic'>walā</span><br>And (do) not",
+"title": "<a name='(68:10:1)' href='/wordmorphology.jsp?location=(68:10:1)'><img src='/wordimage?id=72834'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segRed'>PRO</b> – prohibition particle <div class='arabicGrammar'> الواو استئنافية <br>حرف نهي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:10:2)</span><br><a href='/qurandictionary.jsp?q=TwE#(68:10:2)'>tuṭiʿ</a><br>obey",
+"title": "<a name='(68:10:2)' href='/wordmorphology.jsp?location=(68:10:2)'><img src='/wordimage?id=72835'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine singular (form IV) imperfect verb, jussive mood <div class='arabicGrammar'> فعل مضارع مجزوم </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:10:3)</span><br><a href='/qurandictionary.jsp?q=kll#(68:10:3)'>kulla</a><br>every",
+"title": "<a name='(68:10:3)' href='/wordmorphology.jsp?location=(68:10:3)'><img src='/wordimage?id=72836'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:10:4)</span><br><a href='/qurandictionary.jsp?q=Hlf#(68:10:4)'>ḥallāfin</a><br>habitual swearer",
+"title": "<a name='(68:10:4)' href='/wordmorphology.jsp?location=(68:10:4)'><img src='/wordimage?id=72837'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine singular indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:10:5)</span><br><a href='/qurandictionary.jsp?q=mhn#(68:10:5)'>mahīnin</a><br>worthless,",
+"title": "<img class='num' src='/images/verses/10.png'><a name='(68:10:5)' href='/wordmorphology.jsp?location=(68:10:5)'><img src='/wordimage?id=72838'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular indefinite adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:11:1)</span><br><a href='/qurandictionary.jsp?q=hmz#(68:11:1)'>hammāzin</a><br>Defamer",
+"title": "<a name='(68:11:1)' href='/wordmorphology.jsp?location=(68:11:1)'><img src='/wordimage?id=72839'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular indefinite adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:11:2)</span><br><a href='/qurandictionary.jsp?q=m$y#(68:11:2)'>mashāin</a><br>going about",
+"title": "<a name='(68:11:2)' href='/wordmorphology.jsp?location=(68:11:2)'><img src='/wordimage?id=72840'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular indefinite adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:11:3)</span><br><a href='/qurandictionary.jsp?q=nmm#(68:11:3)'>binamīmin</a><br>with malicious gossip,",
+"title": "<img class='num' src='/images/verses/11.png'><a name='(68:11:3)' href='/wordmorphology.jsp?location=(68:11:3)'><img src='/wordimage?id=72841'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive masculine indefinite noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:12:1)</span><br><a href='/qurandictionary.jsp?q=mnE#(68:12:1)'>mannāʿin</a><br>A preventer,",
+"title": "<a name='(68:12:1)' href='/wordmorphology.jsp?location=(68:12:1)'><img src='/wordimage?id=72842'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular indefinite adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:12:2)</span><br><a href='/qurandictionary.jsp?q=xyr#(68:12:2)'>lil'khayri</a><br>of (the) good,",
+"title": "<a name='(68:12:2)' href='/wordmorphology.jsp?location=(68:12:2)'><img src='/wordimage?id=72843'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segSky'>N</b> – genitive masculine singular noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:12:3)</span><br><a href='/qurandictionary.jsp?q=Edw#(68:12:3)'>muʿ'tadin</a><br>transgressor,",
+"title": "<a name='(68:12:3)' href='/wordmorphology.jsp?location=(68:12:3)'><img src='/wordimage?id=72844'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine indefinite (form VIII) active participle <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:12:4)</span><br><a href='/qurandictionary.jsp?q=Avm#(68:12:4)'>athīmin</a><br>sinful,",
+"title": "<img class='num' src='/images/verses/12.png'><a name='(68:12:4)' href='/wordmorphology.jsp?location=(68:12:4)'><img src='/wordimage?id=72845'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular indefinite adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:13:1)</span><br><a href='/qurandictionary.jsp?q=Etl#(68:13:1)'>ʿutullin</a><br>Cruel,",
+"title": "<a href='/wordmorphology.jsp?location=(68:13:1)'><img src='/wordimage?id=72846'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – genitive masculine singular indefinite adjective <div class='arabicGrammar'> صفة مجرورة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:13:2)</span><br><a href='/qurandictionary.jsp?q=bEd#(68:13:2)'>baʿda</a><br>after",
+"title": "<a name='(68:13:2)' href='/wordmorphology.jsp?location=(68:13:2)'><img src='/wordimage?id=72847'></a>",
+"thirdOne": "<b class='segOrange'>T</b> – accusative time adverb <div class='arabicGrammar'> ظرف زمان منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:13:3)</span><br><span class='phonetic'>dhālika</span><br>(all) that",
+"title": "<a name='(68:13:3)' href='/wordmorphology.jsp?location=(68:13:3)'><img src='/wordimage?id=72848'></a>",
+"thirdOne": "<b class='segBrown'>DEM</b> – masculine singular demonstrative pronoun <div class='arabicGrammar'> اسم اشارة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:13:4)</span><br><a href='/qurandictionary.jsp?q=znm#(68:13:4)'>zanīmin</a><br>utterly useless.",
+"title": "<img class='num' src='/images/verses/13.png'><a name='(68:13:4)' href='/wordmorphology.jsp?location=(68:13:4)'><img src='/wordimage?id=72849'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine singular indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:14:1)</span><br><span class='phonetic'>an</span><br>Because",
+"title": "<a name='(68:14:1)' href='/wordmorphology.jsp?location=(68:14:1)'><img src='/wordimage?id=72850'></a>",
+"thirdOne": "<b class='segGold'>SUB</b> – subordinating conjunction <div class='arabicGrammar'> حرف مصدري </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:14:2)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:14:2)'>kāna</a><br>(he) is",
+"title": "<a name='(68:14:2)' href='/wordmorphology.jsp?location=(68:14:2)'><img src='/wordimage?id=72851'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular perfect verb <div class='arabicGrammar'> فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:14:3)</span><br><span class='phonetic'>dhā</span><br>a possessor",
+"title": "<a name='(68:14:3)' href='/wordmorphology.jsp?location=(68:14:3)'><img src='/wordimage?id=72852'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine singular noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:14:4)</span><br><a href='/qurandictionary.jsp?q=mwl#(68:14:4)'>mālin</a><br>(of) wealth",
+"title": "<a name='(68:14:4)' href='/wordmorphology.jsp?location=(68:14:4)'><img src='/wordimage?id=72853'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:14:5)</span><br><a href='/qurandictionary.jsp?q=bny#(68:14:5)'>wabanīna</a><br>and children,",
+"title": "<img class='num' src='/images/verses/14.png'><a name='(68:14:5)' href='/wordmorphology.jsp?location=(68:14:5)'><img src='/wordimage?id=72854'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> الواو عاطفة <br>اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:15:1)</span><br><a href='qurandictionary.jsp?q=%3Ci*aA#(68:15:1)'>idhā</a><br>When",
+"title": "<a name='(68:15:1)' href='/wordmorphology.jsp?location=(68:15:1)'><img src='/wordimage?id=72855'></a>",
+"thirdOne": "<b class='segOrange'>T</b> – time adverb <div class='arabicGrammar'> ظرف زمان </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:15:2)</span><br><a href='/qurandictionary.jsp?q=tlw#(68:15:2)'>tut'lā</a><br>are recited",
+"title": "<a name='(68:15:2)' href='/wordmorphology.jsp?location=(68:15:2)'><img src='/wordimage?id=72856'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person feminine singular passive imperfect verb <div class='arabicGrammar'> فعل مضارع مبني للمجهول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:15:3)</span><br><span class='phonetic'>ʿalayhi</span><br>to him",
+"title": "<a name='(68:15:3)' href='/wordmorphology.jsp?location=(68:15:3)'><img src='/wordimage?id=72857'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:15:4)</span><br><a href='/qurandictionary.jsp?q=Ayy#(68:15:4)'>āyātunā</a><br>Our Verses,",
+"title": "<a name='(68:15:4)' href='/wordmorphology.jsp?location=(68:15:4)'><img src='/wordimage?id=72858'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative feminine plural noun<br><b class='segMetal'>PRON</b> – 1st person plural possessive pronoun <div class='arabicGrammar'> اسم مرفوع و«نا» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:15:5)</span><br><a href='/qurandictionary.jsp?q=qwl#(68:15:5)'>qāla</a><br>he says,",
+"title": "<a name='(68:15:5)' href='/wordmorphology.jsp?location=(68:15:5)'><img src='/wordimage?id=72859'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular perfect verb <div class='arabicGrammar'> فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:15:6)</span><br><a href='/qurandictionary.jsp?q=sTr#(68:15:6)'>asāṭīru</a><br>'Stories",
+"title": "<a name='(68:15:6)' href='/wordmorphology.jsp?location=(68:15:6)'><img src='/wordimage?id=72860'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:15:7)</span><br><a href='/qurandictionary.jsp?q=Awl#(68:15:7)'>l-awalīna</a><br>(of) the former (people).'",
+"title": "<img class='num' src='/images/verses/15.png'><a name='(68:15:7)' href='/wordmorphology.jsp?location=(68:15:7)'><img src='/wordimage?id=72861'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:16:1)</span><br><a href='/qurandictionary.jsp?q=wsm#(68:16:1)'>sanasimuhu</a><br>We will brand him",
+"title": "<a name='(68:16:1)' href='/wordmorphology.jsp?location=(68:16:1)'><img src='/wordimage?id=72862'></a>",
+"thirdOne": "<b class='segPink'>FUT</b> – prefixed future particle <i class='ab'>sa</i><br><b class='segSeagreen'>V</b> – 1st person plural imperfect verb<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> حرف استقبال <br>فعل مضارع والهاء ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:16:2)</span><br><span class='phonetic'>ʿalā</span><br>on",
+"title": "<a name='(68:16:2)' href='/wordmorphology.jsp?location=(68:16:2)'><img src='/wordimage?id=72863'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:16:3)</span><br><a href='/qurandictionary.jsp?q=xrTm#(68:16:3)'>l-khur'ṭūmi</a><br>the snout.",
+"title": "<img class='num' src='/images/verses/16.png'><a name='(68:16:3)' href='/wordmorphology.jsp?location=(68:16:3)'><img src='/wordimage?id=72864'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun → <a href='/concept.jsp?id=snout'>Snout</a> <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:1)</span><br><span class='phonetic'>innā</span><br>Indeed, We",
+"title": "<a href='/wordmorphology.jsp?location=(68:17:1)'><img src='/wordimage?id=72865'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> حرف نصب و«نا» ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:2)</span><br><a href='/qurandictionary.jsp?q=blw#(68:17:2)'>balawnāhum</a><br>have tried them",
+"title": "<a name='(68:17:2)' href='/wordmorphology.jsp?location=(68:17:2)'><img src='/wordimage?id=72866'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 1st person plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural object pronoun <div class='arabicGrammar'> فعل ماض و«نا» ضمير متصل في محل رفع فاعل و«هم» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:3)</span><br><span class='phonetic'>kamā</span><br>as",
+"title": "<a name='(68:17:3)' href='/wordmorphology.jsp?location=(68:17:3)'><img src='/wordimage?id=72867'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>ka</i><br><b class='segGold'>SUB</b> – subordinating conjunction <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:4)</span><br><a href='/qurandictionary.jsp?q=blw#(68:17:4)'>balawnā</a><br>We tried",
+"title": "<a name='(68:17:4)' href='/wordmorphology.jsp?location=(68:17:4)'><img src='/wordimage?id=72868'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 1st person plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض و«نا» ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:5)</span><br><a href='/qurandictionary.jsp?q=SHb#(68:17:5)'>aṣḥāba</a><br>(the) companions",
+"title": "<a name='(68:17:5)' href='/wordmorphology.jsp?location=(68:17:5)'><img src='/wordimage?id=72869'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:6)</span><br><a href='/qurandictionary.jsp?q=jnn#(68:17:6)'>l-janati</a><br>(of) the garden,",
+"title": "<a name='(68:17:6)' href='/wordmorphology.jsp?location=(68:17:6)'><img src='/wordimage?id=72870'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive feminine noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:7)</span><br><a href='qurandictionary.jsp?q=%3Ci*#(68:17:7)'>idh</a><br>when",
+"title": "<a name='(68:17:7)' href='/wordmorphology.jsp?location=(68:17:7)'><img src='/wordimage?id=72871'></a>",
+"thirdOne": "<b class='segOrange'>T</b> – time adverb <div class='arabicGrammar'> ظرف زمان </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:8)</span><br><a href='/qurandictionary.jsp?q=qsm#(68:17:8)'>aqsamū</a><br>they swore",
+"title": "<a name='(68:17:8)' href='/wordmorphology.jsp?location=(68:17:8)'><img src='/wordimage?id=72872'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural (form IV) perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:9)</span><br><a href='/qurandictionary.jsp?q=Srm#(68:17:9)'>layaṣrimunnahā</a><br>to pluck its fruit",
+"title": "<a name='(68:17:9)' href='/wordmorphology.jsp?location=(68:17:9)'><img src='/wordimage?id=72873'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segSeagreen'>V</b> – 3rd person masculine plural imperfect verb<br><b class='segPink'>EMPH</b> – emphatic suffix <i class='ab'>nūn</i><br><b class='segMetal'>PRON</b> – 3rd person feminine singular object pronoun <div class='arabicGrammar'> اللام لام التوكيد <br>فعل مضارع والنون للتوكيد و«ها» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:17:10)</span><br><a href='/qurandictionary.jsp?q=SbH#(68:17:10)'>muṣ'biḥīna</a><br>(in the) morning,",
+"title": "<img class='num' src='/images/verses/17.png'><a name='(68:17:10)' href='/wordmorphology.jsp?location=(68:17:10)'><img src='/wordimage?id=72874'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural (form IV) active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:18:1)</span><br><span class='phonetic'>walā</span><br>And not",
+"title": "<a name='(68:18:1)' href='/wordmorphology.jsp?location=(68:18:1)'><img src='/wordimage?id=72875'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segRed'>NEG</b> – negative particle <div class='arabicGrammar'> الواو عاطفة <br>حرف نفي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:18:2)</span><br><a href='/qurandictionary.jsp?q=vny#(68:18:2)'>yastathnūna</a><br>making exception.",
+"title": "<img class='num' src='/images/verses/18.png'><a name='(68:18:2)' href='/wordmorphology.jsp?location=(68:18:2)'><img src='/wordimage?id=72876'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural (form X) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:19:1)</span><br><a href='/qurandictionary.jsp?q=Twf#(68:19:1)'>faṭāfa</a><br>So there came",
+"title": "<a name='(68:19:1)' href='/wordmorphology.jsp?location=(68:19:1)'><img src='/wordimage?id=72877'></a>",
+"thirdOne": "<b class='segPink'>CAUS</b> – prefixed particle of cause<br><b class='segSeagreen'>V</b> – 3rd person masculine singular perfect verb <div class='arabicGrammar'> الفاء سببية <br>فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:19:2)</span><br><span class='phonetic'>ʿalayhā</span><br>upon it",
+"title": "<a name='(68:19:2)' href='/wordmorphology.jsp?location=(68:19:2)'><img src='/wordimage?id=72878'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition<br><b class='segMetal'>PRON</b> – 3rd person feminine singular object pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:19:3)</span><br><a href='/qurandictionary.jsp?q=Twf#(68:19:3)'>ṭāifun</a><br>a visitation",
+"title": "<a name='(68:19:3)' href='/wordmorphology.jsp?location=(68:19:3)'><img src='/wordimage?id=72879'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine indefinite active participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:19:4)</span><br><span class='phonetic'>min</span><br>from",
+"title": "<a name='(68:19:4)' href='/wordmorphology.jsp?location=(68:19:4)'><img src='/wordimage?id=72880'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:19:5)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:19:5)'>rabbika</a><br>your Lord,",
+"title": "<a name='(68:19:5)' href='/wordmorphology.jsp?location=(68:19:5)'><img src='/wordimage?id=72881'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 2nd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم مجرور والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:19:6)</span><br><span class='phonetic'>wahum</span><br>while they",
+"title": "<a name='(68:19:6)' href='/wordmorphology.jsp?location=(68:19:6)'><img src='/wordimage?id=72882'></a>",
+"thirdOne": "<b class='segNavy'>CIRC</b> – prefixed circumstantial particle<br><b class='segMetal'>PRON</b> – 3rd person masculine plural personal pronoun <div class='arabicGrammar'> الواو حالية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:19:7)</span><br><a href='/qurandictionary.jsp?q=nwm#(68:19:7)'>nāimūna</a><br>were asleep.",
+"title": "<img class='num' src='/images/verses/19.png'><a name='(68:19:7)' href='/wordmorphology.jsp?location=(68:19:7)'><img src='/wordimage?id=72883'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural active participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:20:1)</span><br><a href='/qurandictionary.jsp?q=SbH#(68:20:1)'>fa-aṣbaḥat</a><br>So it became",
+"title": "<a name='(68:20:1)' href='/wordmorphology.jsp?location=(68:20:1)'><img src='/wordimage?id=72884'></a>",
+"thirdOne": "<b class='segPink'>CAUS</b> – prefixed particle of cause<br><b class='segSeagreen'>V</b> – 3rd person feminine singular (form IV) perfect verb <div class='arabicGrammar'> الفاء سببية <br>فعل ماض من اخوات «كان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:20:2)</span><br><a href='/qurandictionary.jsp?q=Srm#(68:20:2)'>kal-ṣarīmi</a><br>as if reaped.",
+"title": "<img class='num' src='/images/verses/20.png'><a name='(68:20:2)' href='/wordmorphology.jsp?location=(68:20:2)'><img src='/wordimage?id=72885'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>ka</i><br><b class='segSky'>N</b> – genitive masculine noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:21:1)</span><br><a href='/qurandictionary.jsp?q=ndw#(68:21:1)'>fatanādaw</a><br>And they called one another",
+"title": "<a name='(68:21:1)' href='/wordmorphology.jsp?location=(68:21:1)'><img src='/wordimage?id=72886'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الفاء استئنافية <br>فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:21:2)</span><br><a href='/qurandictionary.jsp?q=SbH#(68:21:2)'>muṣ'biḥīna</a><br>(at) morning,",
+"title": "<img class='num' src='/images/verses/21.png'><a name='(68:21:2)' href='/wordmorphology.jsp?location=(68:21:2)'><img src='/wordimage?id=72887'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural (form IV) active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:22:1)</span><br><span class='phonetic'>ani</span><br>That",
+"title": "<a name='(68:22:1)' href='/wordmorphology.jsp?location=(68:22:1)'><img src='/wordimage?id=72888'></a>",
+"thirdOne": "<b class='segGold'>INT</b> – particle of interpretation <div class='arabicGrammar'> حرف تفسير </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:22:2)</span><br><a href='/qurandictionary.jsp?q=gdw#(68:22:2)'>igh'dū</a><br>'Go early",
+"title": "<a name='(68:22:2)' href='/wordmorphology.jsp?location=(68:22:2)'><img src='/wordimage?id=72889'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine plural imperative verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل أمر والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:22:3)</span><br><span class='phonetic'>ʿalā</span><br>to",
+"title": "<a name='(68:22:3)' href='/wordmorphology.jsp?location=(68:22:3)'><img src='/wordimage?id=72890'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:22:4)</span><br><a href='/qurandictionary.jsp?q=Hrv#(68:22:4)'>ḥarthikum</a><br>your crop",
+"title": "<a name='(68:22:4)' href='/wordmorphology.jsp?location=(68:22:4)'><img src='/wordimage?id=72891'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 2nd person masculine plural possessive pronoun <div class='arabicGrammar'> اسم مجرور والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:22:5)</span><br><span class='phonetic'>in</span><br>if",
+"title": "<a name='(68:22:5)' href='/wordmorphology.jsp?location=(68:22:5)'><img src='/wordimage?id=72892'></a>",
+"thirdOne": "<b class='segOrange'>COND</b> – conditional particle <div class='arabicGrammar'> حرف شرط </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:22:6)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:22:6)'>kuntum</a><br>you would",
+"title": "<a name='(68:22:6)' href='/wordmorphology.jsp?location=(68:22:6)'><img src='/wordimage?id=72893'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والتاء ضمير متصل في محل رفع اسم «كان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:22:7)</span><br><a href='/qurandictionary.jsp?q=Srm#(68:22:7)'>ṣārimīna</a><br>pluck (the) fruit.'",
+"title": "<img class='num' src='/images/verses/22.png'><a name='(68:22:7)' href='/wordmorphology.jsp?location=(68:22:7)'><img src='/wordimage?id=72894'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:23:1)</span><br><a href='/qurandictionary.jsp?q=Tlq#(68:23:1)'>fa-inṭalaqū</a><br>So they went,",
+"title": "<a href='/wordmorphology.jsp?location=(68:23:1)'><img src='/wordimage?id=72895'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>fa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine plural (form VII) perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الفاء عاطفة <br>فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:23:2)</span><br><span class='phonetic'>wahum</span><br>while they",
+"title": "<a name='(68:23:2)' href='/wordmorphology.jsp?location=(68:23:2)'><img src='/wordimage?id=72896'></a>",
+"thirdOne": "<b class='segNavy'>CIRC</b> – prefixed circumstantial particle<br><b class='segMetal'>PRON</b> – 3rd person masculine plural personal pronoun <div class='arabicGrammar'> الواو حالية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:23:3)</span><br><a href='/qurandictionary.jsp?q=xft#(68:23:3)'>yatakhāfatūna</a><br>lowered (their) voices,",
+"title": "<img class='num' src='/images/verses/23.png'><a name='(68:23:3)' href='/wordmorphology.jsp?location=(68:23:3)'><img src='/wordimage?id=72897'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural (form VI) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:24:1)</span><br><span class='phonetic'>an</span><br>That",
+"title": "<a name='(68:24:1)' href='/wordmorphology.jsp?location=(68:24:1)'><img src='/wordimage?id=72898'></a>",
+"thirdOne": "<b class='segGold'>INT</b> – particle of interpretation <div class='arabicGrammar'> حرف تفسير </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:24:2)</span><br><span class='phonetic'>lā</span><br>'Not",
+"title": "<a name='(68:24:2)' href='/wordmorphology.jsp?location=(68:24:2)'><img src='/wordimage?id=72899'></a>",
+"thirdOne": "<b class='segRed'>PRO</b> – prohibition particle <div class='arabicGrammar'> حرف نهي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:24:3)</span><br><a href='/qurandictionary.jsp?q=dxl#(68:24:3)'>yadkhulannahā</a><br>will enter it",
+"title": "<a name='(68:24:3)' href='/wordmorphology.jsp?location=(68:24:3)'><img src='/wordimage?id=72900'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular imperfect verb, jussive mood<br><b class='segPink'>EMPH</b> – emphatic suffix <i class='ab'>nūn</i><br><b class='segMetal'>PRON</b> – 3rd person feminine singular object pronoun <div class='arabicGrammar'> فعل مضارع مجزوم والنون للتوكيد و«ها» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:24:4)</span><br><a href='/qurandictionary.jsp?q=ywm#(68:24:4)'>l-yawma</a><br>today",
+"title": "<a name='(68:24:4)' href='/wordmorphology.jsp?location=(68:24:4)'><img src='/wordimage?id=72901'></a>",
+"thirdOne": "<b class='segOrange'>T</b> – accusative masculine time adverb <div class='arabicGrammar'> ظرف زمان منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:24:5)</span><br><span class='phonetic'>ʿalaykum</span><br>upon you",
+"title": "<a name='(68:24:5)' href='/wordmorphology.jsp?location=(68:24:5)'><img src='/wordimage?id=72902'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition<br><b class='segMetal'>PRON</b> – 2nd person masculine plural object pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:24:6)</span><br><a href='/qurandictionary.jsp?q=skn#(68:24:6)'>mis'kīnun</a><br>any poor person.'",
+"title": "<img class='num' src='/images/verses/24.png'><a name='(68:24:6)' href='/wordmorphology.jsp?location=(68:24:6)'><img src='/wordimage?id=72903'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine singular indefinite noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:25:1)</span><br><a href='/qurandictionary.jsp?q=gdw#(68:25:1)'>waghadaw</a><br>And they went early",
+"title": "<a name='(68:25:1)' href='/wordmorphology.jsp?location=(68:25:1)'><img src='/wordimage?id=72904'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الواو عاطفة <br>فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:25:2)</span><br><span class='phonetic'>ʿalā</span><br>with",
+"title": "<a name='(68:25:2)' href='/wordmorphology.jsp?location=(68:25:2)'><img src='/wordimage?id=72905'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:25:3)</span><br><a href='/qurandictionary.jsp?q=Hrd#(68:25:3)'>ḥardin</a><br>determination",
+"title": "<a name='(68:25:3)' href='/wordmorphology.jsp?location=(68:25:3)'><img src='/wordimage?id=72906'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:25:4)</span><br><a href='/qurandictionary.jsp?q=qdr#(68:25:4)'>qādirīna</a><br>able.",
+"title": "<img class='num' src='/images/verses/25.png'><a name='(68:25:4)' href='/wordmorphology.jsp?location=(68:25:4)'><img src='/wordimage?id=72907'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:26:1)</span><br><span class='phonetic'>falammā</span><br>But when",
+"title": "<a name='(68:26:1)' href='/wordmorphology.jsp?location=(68:26:1)'><img src='/wordimage?id=72908'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segOrange'>T</b> – time adverb <div class='arabicGrammar'> الفاء استئنافية <br>ظرف زمان </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:26:2)</span><br><a href='/qurandictionary.jsp?q=rAy#(68:26:2)'>ra-awhā</a><br>they saw it,",
+"title": "<a name='(68:26:2)' href='/wordmorphology.jsp?location=(68:26:2)'><img src='/wordimage?id=72909'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun<br><b class='segMetal'>PRON</b> – 3rd person feminine singular object pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل و«ها» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:26:3)</span><br><a href='/qurandictionary.jsp?q=qwl#(68:26:3)'>qālū</a><br>they said,",
+"title": "<a name='(68:26:3)' href='/wordmorphology.jsp?location=(68:26:3)'><img src='/wordimage?id=72910'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:26:4)</span><br><span class='phonetic'>innā</span><br>'Indeed, we",
+"title": "<a name='(68:26:4)' href='/wordmorphology.jsp?location=(68:26:4)'><img src='/wordimage?id=72911'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> حرف نصب و«نا» ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:26:5)</span><br><a href='/qurandictionary.jsp?q=Dll#(68:26:5)'>laḍāllūna</a><br>(are) surely lost.",
+"title": "<img class='num' src='/images/verses/26.png'><a name='(68:26:5)' href='/wordmorphology.jsp?location=(68:26:5)'><img src='/wordimage?id=72912'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segSky'>N</b> – nominative masculine plural active participle <div class='arabicGrammar'> اللام لام التوكيد <br>اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:27:1)</span><br><span class='phonetic'>bal</span><br>Nay!",
+"title": "<a name='(68:27:1)' href='/wordmorphology.jsp?location=(68:27:1)'><img src='/wordimage?id=72913'></a>",
+"thirdOne": "<b class='segPink'>RET</b> – retraction particle <div class='arabicGrammar'> حرف اضراب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:27:2)</span><br><span class='phonetic'>naḥnu</span><br>We",
+"title": "<a name='(68:27:2)' href='/wordmorphology.jsp?location=(68:27:2)'><img src='/wordimage?id=72914'></a>",
+"thirdOne": "<b class='segMetal'>PRON</b> – 1st person plural personal pronoun <div class='arabicGrammar'> ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:27:3)</span><br><a href='/qurandictionary.jsp?q=Hrm#(68:27:3)'>maḥrūmūna</a><br>(are) deprived.'",
+"title": "<img class='num' src='/images/verses/27.png'><a name='(68:27:3)' href='/wordmorphology.jsp?location=(68:27:3)'><img src='/wordimage?id=72915'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural passive participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:28:1)</span><br><a href='/qurandictionary.jsp?q=qwl#(68:28:1)'>qāla</a><br>Said",
+"title": "<a href='/wordmorphology.jsp?location=(68:28:1)'><img src='/wordimage?id=72916'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular perfect verb <div class='arabicGrammar'> فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:28:2)</span><br><a href='/qurandictionary.jsp?q=wsT#(68:28:2)'>awsaṭuhum</a><br>(the) most moderate of them,",
+"title": "<a name='(68:28:2)' href='/wordmorphology.jsp?location=(68:28:2)'><img src='/wordimage?id=72917'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine singular noun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural possessive pronoun <div class='arabicGrammar'> اسم مرفوع و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:28:3)</span><br><span class='phonetic'>alam</span><br>'Did not",
+"title": "<a name='(68:28:3)' href='/wordmorphology.jsp?location=(68:28:3)'><img src='/wordimage?id=72918'></a>",
+"thirdOne": "<b class='segRose'>INTG</b> – prefixed interrogative <i class='ab'>alif</i><br><b class='segRed'>NEG</b> – negative particle <div class='arabicGrammar'> الهمزة همزة استفهام <br>حرف نفي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:28:4)</span><br><a href='/qurandictionary.jsp?q=qwl#(68:28:4)'>aqul</a><br>I tell",
+"title": "<a name='(68:28:4)' href='/wordmorphology.jsp?location=(68:28:4)'><img src='/wordimage?id=72919'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 1st person singular imperfect verb, jussive mood <div class='arabicGrammar'> فعل مضارع مجزوم </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:28:5)</span><br><span class='phonetic'>lakum</span><br>you,",
+"title": "<a name='(68:28:5)' href='/wordmorphology.jsp?location=(68:28:5)'><img src='/wordimage?id=72920'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 2nd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:28:6)</span><br><span class='phonetic'>lawlā</span><br>'Why not",
+"title": "<a name='(68:28:6)' href='/wordmorphology.jsp?location=(68:28:6)'><img src='/wordimage?id=72921'></a>",
+"thirdOne": "<b class='segPink'>EXH</b> – exhortation particle <div class='arabicGrammar'> حرف تحضيض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:28:7)</span><br><a href='/qurandictionary.jsp?q=sbH#(68:28:7)'>tusabbiḥūna</a><br>you glorify (Allah)?''",
+"title": "<img class='num' src='/images/verses/28.png'><a name='(68:28:7)' href='/wordmorphology.jsp?location=(68:28:7)'><img src='/wordimage?id=72922'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine plural (form II) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:29:1)</span><br><a href='/qurandictionary.jsp?q=qwl#(68:29:1)'>qālū</a><br>They said,",
+"title": "<a name='(68:29:1)' href='/wordmorphology.jsp?location=(68:29:1)'><img src='/wordimage?id=72923'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:29:2)</span><br><a href='/qurandictionary.jsp?q=sbH#(68:29:2)'>sub'ḥāna</a><br>'Glory be",
+"title": "<a name='(68:29:2)' href='/wordmorphology.jsp?location=(68:29:2)'><img src='/wordimage?id=72924'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:29:3)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:29:3)'>rabbinā</a><br>(to) our Lord!",
+"title": "<a name='(68:29:3)' href='/wordmorphology.jsp?location=(68:29:3)'><img src='/wordimage?id=72925'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 1st person plural possessive pronoun <div class='arabicGrammar'> اسم مجرور و«نا» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:29:4)</span><br><span class='phonetic'>innā</span><br>Indeed, we",
+"title": "<a name='(68:29:4)' href='/wordmorphology.jsp?location=(68:29:4)'><img src='/wordimage?id=72926'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> حرف نصب و«نا» ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:29:5)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:29:5)'>kunnā</a><br>[we] were",
+"title": "<a name='(68:29:5)' href='/wordmorphology.jsp?location=(68:29:5)'><img src='/wordimage?id=72927'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 1st person plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض و«نا» ضمير متصل في محل رفع اسم «كان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:29:6)</span><br><a href='/qurandictionary.jsp?q=Zlm#(68:29:6)'>ẓālimīna</a><br>wrongdoers.'",
+"title": "<img class='num' src='/images/verses/29.png'><a name='(68:29:6)' href='/wordmorphology.jsp?location=(68:29:6)'><img src='/wordimage?id=72928'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:30:1)</span><br><a href='/qurandictionary.jsp?q=qbl#(68:30:1)'>fa-aqbala</a><br>Then approached,",
+"title": "<a name='(68:30:1)' href='/wordmorphology.jsp?location=(68:30:1)'><img src='/wordimage?id=72929'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>fa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine singular (form IV) perfect verb <div class='arabicGrammar'> الفاء عاطفة <br>فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:30:2)</span><br><a href='/qurandictionary.jsp?q=bED#(68:30:2)'>baʿḍuhum</a><br>some of them",
+"title": "<a name='(68:30:2)' href='/wordmorphology.jsp?location=(68:30:2)'><img src='/wordimage?id=72930'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine noun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural possessive pronoun <div class='arabicGrammar'> اسم مرفوع و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:30:3)</span><br><span class='phonetic'>ʿalā</span><br>to",
+"title": "<a name='(68:30:3)' href='/wordmorphology.jsp?location=(68:30:3)'><img src='/wordimage?id=72931'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:30:4)</span><br><a href='/qurandictionary.jsp?q=bED#(68:30:4)'>baʿḍin</a><br>others",
+"title": "<a name='(68:30:4)' href='/wordmorphology.jsp?location=(68:30:4)'><img src='/wordimage?id=72932'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:30:5)</span><br><a href='/qurandictionary.jsp?q=lwm#(68:30:5)'>yatalāwamūna</a><br>blaming each other.",
+"title": "<img class='num' src='/images/verses/30.png'><a name='(68:30:5)' href='/wordmorphology.jsp?location=(68:30:5)'><img src='/wordimage?id=72933'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural (form VI) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:31:1)</span><br><a href='/qurandictionary.jsp?q=qwl#(68:31:1)'>qālū</a><br>They said,",
+"title": "<a name='(68:31:1)' href='/wordmorphology.jsp?location=(68:31:1)'><img src='/wordimage?id=72934'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:31:2)</span><br><span class='phonetic'>yāwaylanā</span><br>'O woe to us!",
+"title": "<a name='(68:31:2)' href='/wordmorphology.jsp?location=(68:31:2)'><img src='/wordimage?id=72935'></a>",
+"thirdOne": "<b class='segGreen'>VOC</b> – prefixed vocative particle <i class='ab'>ya</i><br><b class='segSky'>N</b> – accusative noun<br><b class='segMetal'>PRON</b> – 1st person plural possessive pronoun <div class='arabicGrammar'> أداة نداء <br>اسم منصوب و«نا» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:31:3)</span><br><span class='phonetic'>innā</span><br>Indeed, we",
+"title": "<a name='(68:31:3)' href='/wordmorphology.jsp?location=(68:31:3)'><img src='/wordimage?id=72936'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> حرف نصب و«نا» ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:31:4)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:31:4)'>kunnā</a><br>[we] were",
+"title": "<a name='(68:31:4)' href='/wordmorphology.jsp?location=(68:31:4)'><img src='/wordimage?id=72937'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 1st person plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض و«نا» ضمير متصل في محل رفع اسم «كان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:31:5)</span><br><a href='/qurandictionary.jsp?q=Tgy#(68:31:5)'>ṭāghīna</a><br>transgressors.",
+"title": "<img class='num' src='/images/verses/31.png'><a name='(68:31:5)' href='/wordmorphology.jsp?location=(68:31:5)'><img src='/wordimage?id=72938'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:1)</span><br><a href='/qurandictionary.jsp?q=Esy#(68:32:1)'>ʿasā</a><br>Perhaps,",
+"title": "<a href='/wordmorphology.jsp?location=(68:32:1)'><img src='/wordimage?id=72939'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular perfect verb <div class='arabicGrammar'> فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:2)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:32:2)'>rabbunā</a><br>our Lord,",
+"title": "<a name='(68:32:2)' href='/wordmorphology.jsp?location=(68:32:2)'><img src='/wordimage?id=72940'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine noun<br><b class='segMetal'>PRON</b> – 1st person plural possessive pronoun <div class='arabicGrammar'> اسم مرفوع و«نا» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:3)</span><br><span class='phonetic'>an</span><br>[that]",
+"title": "<a name='(68:32:3)' href='/wordmorphology.jsp?location=(68:32:3)'><img src='/wordimage?id=72941'></a>",
+"thirdOne": "<b class='segGold'>SUB</b> – subordinating conjunction <div class='arabicGrammar'> حرف مصدري </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:4)</span><br><a href='/qurandictionary.jsp?q=bdl#(68:32:4)'>yub'dilanā</a><br>will substitute for us",
+"title": "<a name='(68:32:4)' href='/wordmorphology.jsp?location=(68:32:4)'><img src='/wordimage?id=72942'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular (form IV) imperfect verb, subjunctive mood<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> فعل مضارع منصوب و«نا» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:5)</span><br><a href='/qurandictionary.jsp?q=xyr#(68:32:5)'>khayran</a><br>a better",
+"title": "<a name='(68:32:5)' href='/wordmorphology.jsp?location=(68:32:5)'><img src='/wordimage?id=72943'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine singular indefinite noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:6)</span><br><span class='phonetic'>min'hā</span><br>than it.",
+"title": "<a name='(68:32:6)' href='/wordmorphology.jsp?location=(68:32:6)'><img src='/wordimage?id=72944'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition<br><b class='segMetal'>PRON</b> – 3rd person feminine singular object pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:7)</span><br><span class='phonetic'>innā</span><br>Indeed, we",
+"title": "<a name='(68:32:7)' href='/wordmorphology.jsp?location=(68:32:7)'><img src='/wordimage?id=72945'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> حرف نصب و«نا» ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:8)</span><br><a href='qurandictionary.jsp?q=%3CilaY%60#(68:32:8)'>ilā</a><br>to",
+"title": "<a name='(68:32:8)' href='/wordmorphology.jsp?location=(68:32:8)'><img src='/wordimage?id=72946'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:9)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:32:9)'>rabbinā</a><br>our Lord",
+"title": "<a name='(68:32:9)' href='/wordmorphology.jsp?location=(68:32:9)'><img src='/wordimage?id=72947'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 1st person plural possessive pronoun <div class='arabicGrammar'> اسم مجرور و«نا» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:32:10)</span><br><a href='/qurandictionary.jsp?q=rgb#(68:32:10)'>rāghibūna</a><br>turn devoutly.'",
+"title": "<img class='num' src='/images/verses/32.png'><a name='(68:32:10)' href='/wordmorphology.jsp?location=(68:32:10)'><img src='/wordimage?id=72948'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural active participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:1)</span><br><span class='phonetic'>kadhālika</span><br>Such",
+"title": "<a name='(68:33:1)' href='/wordmorphology.jsp?location=(68:33:1)'><img src='/wordimage?id=72949'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>ka</i><br><b class='segBrown'>DEM</b> – masculine singular demonstrative pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:2)</span><br><a href='/qurandictionary.jsp?q=E*b#(68:33:2)'>l-ʿadhābu</a><br>(is) the punishment.",
+"title": "<a name='(68:33:2)' href='/wordmorphology.jsp?location=(68:33:2)'><img src='/wordimage?id=72950'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:3)</span><br><a href='/qurandictionary.jsp?q=E*b#(68:33:3)'>walaʿadhābu</a><br>And surely the punishment",
+"title": "<a name='(68:33:3)' href='/wordmorphology.jsp?location=(68:33:3)'><img src='/wordimage?id=72951'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segSky'>N</b> – nominative masculine noun <div class='arabicGrammar'> الواو عاطفة <br>اللام لام التوكيد <br>اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:4)</span><br><a href='/qurandictionary.jsp?q=Axr#(68:33:4)'>l-ākhirati</a><br>(of) the Hereafter",
+"title": "<a name='(68:33:4)' href='/wordmorphology.jsp?location=(68:33:4)'><img src='/wordimage?id=72952'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive feminine singular noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:5)</span><br><a href='/qurandictionary.jsp?q=kbr#(68:33:5)'>akbaru</a><br>(is) greater,",
+"title": "<a name='(68:33:5)' href='/wordmorphology.jsp?location=(68:33:5)'><img src='/wordimage?id=72953'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine singular noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:6)</span><br><span class='phonetic'>law</span><br>if",
+"title": "<a name='(68:33:6)' href='/wordmorphology.jsp?location=(68:33:6)'><img src='/wordimage?id=72954'></a>",
+"thirdOne": "<b class='segOrange'>COND</b> – conditional particle <div class='arabicGrammar'> حرف شرط </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:7)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:33:7)'>kānū</a><br>they",
+"title": "<a name='(68:33:7)' href='/wordmorphology.jsp?location=(68:33:7)'><img src='/wordimage?id=72955'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع اسم «كان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:33:8)</span><br><a href='/qurandictionary.jsp?q=Elm#(68:33:8)'>yaʿlamūna</a><br>know.",
+"title": "<img class='num' src='/images/verses/33.png'><a name='(68:33:8)' href='/wordmorphology.jsp?location=(68:33:8)'><img src='/wordimage?id=72956'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:34:1)</span><br><span class='phonetic'>inna</span><br>Indeed,",
+"title": "<a name='(68:34:1)' href='/wordmorphology.jsp?location=(68:34:1)'><img src='/wordimage?id=72957'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle <div class='arabicGrammar'> حرف نصب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:34:2)</span><br><a href='/qurandictionary.jsp?q=wqy#(68:34:2)'>lil'muttaqīna</a><br>for the righteous",
+"title": "<a name='(68:34:2)' href='/wordmorphology.jsp?location=(68:34:2)'><img src='/wordimage?id=72958'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segSky'>N</b> – genitive masculine plural (form VIII) active participle <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:34:3)</span><br><a href='/qurandictionary.jsp?q=End#(68:34:3)'>ʿinda</a><br>with",
+"title": "<a name='(68:34:3)' href='/wordmorphology.jsp?location=(68:34:3)'><img src='/wordimage?id=72959'></a>",
+"thirdOne": "<b class='segOrange'>LOC</b> – accusative location adverb <div class='arabicGrammar'> ظرف مكان منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:34:4)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:34:4)'>rabbihim</a><br>their Lord",
+"title": "<a name='(68:34:4)' href='/wordmorphology.jsp?location=(68:34:4)'><img src='/wordimage?id=72960'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural possessive pronoun <div class='arabicGrammar'> اسم مجرور و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:34:5)</span><br><a href='/qurandictionary.jsp?q=jnn#(68:34:5)'>jannāti</a><br>(are) Gardens",
+"title": "<a name='(68:34:5)' href='/wordmorphology.jsp?location=(68:34:5)'><img src='/wordimage?id=72961'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative feminine plural noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:34:6)</span><br><a href='/qurandictionary.jsp?q=nEm#(68:34:6)'>l-naʿīmi</a><br>(of) Delight.",
+"title": "<img class='num' src='/images/verses/34.png'><a name='(68:34:6)' href='/wordmorphology.jsp?location=(68:34:6)'><img src='/wordimage?id=72962'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:35:1)</span><br><a href='/qurandictionary.jsp?q=jEl#(68:35:1)'>afanajʿalu</a><br>Then will We treat",
+"title": "<a name='(68:35:1)' href='/wordmorphology.jsp?location=(68:35:1)'><img src='/wordimage?id=72963'></a>",
+"thirdOne": "<b class='segRose'>INTG</b> – prefixed interrogative <i class='ab'>alif</i><br><b class='segPink'>SUP</b> – prefixed supplemental particle<br><b class='segSeagreen'>V</b> – 1st person plural imperfect verb <div class='arabicGrammar'> الهمزة همزة استفهام <br>الفاء زائدة <br>فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:35:2)</span><br><a href='/qurandictionary.jsp?q=slm#(68:35:2)'>l-mus'limīna</a><br>the Muslims",
+"title": "<a name='(68:35:2)' href='/wordmorphology.jsp?location=(68:35:2)'><img src='/wordimage?id=72964'></a>",
+"thirdOne": "<b class='segBlue'>PN</b> – accusative masculine plural (form IV) active participle → <a href='/concept.jsp?id=islam'>Islam</a> <div class='arabicGrammar'> اسم علم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:35:3)</span><br><a href='/qurandictionary.jsp?q=jrm#(68:35:3)'>kal-muj'rimīna</a><br>like the criminals?",
+"title": "<img class='num' src='/images/verses/35.png'><a name='(68:35:3)' href='/wordmorphology.jsp?location=(68:35:3)'><img src='/wordimage?id=72965'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>ka</i><br><b class='segSky'>N</b> – genitive masculine plural (form IV) active participle <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:36:1)</span><br><span class='phonetic'>mā</span><br>What",
+"title": "<a href='/wordmorphology.jsp?location=(68:36:1)'><img src='/wordimage?id=72966'></a>",
+"thirdOne": "<b class='segRose'>INTG</b> – interrogative noun <div class='arabicGrammar'> اسم استفهام </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:36:2)</span><br><span class='phonetic'>lakum</span><br>(is) for you?",
+"title": "<a name='(68:36:2)' href='/wordmorphology.jsp?location=(68:36:2)'><img src='/wordimage?id=72967'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 2nd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:36:3)</span><br><a href='/qurandictionary.jsp?q=kyf#(68:36:3)'>kayfa</a><br>How",
+"title": "<a name='(68:36:3)' href='/wordmorphology.jsp?location=(68:36:3)'><img src='/wordimage?id=72968'></a>",
+"thirdOne": "<b class='segRose'>INTG</b> – interrogative noun <div class='arabicGrammar'> اسم استفهام </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:36:4)</span><br><a href='/qurandictionary.jsp?q=Hkm#(68:36:4)'>taḥkumūna</a><br>(do) you judge?",
+"title": "<img class='num' src='/images/verses/36.png'><a name='(68:36:4)' href='/wordmorphology.jsp?location=(68:36:4)'><img src='/wordimage?id=72969'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:37:1)</span><br><a href='qurandictionary.jsp?q=%3Eam#(68:37:1)'>am</a><br>Or",
+"title": "<a name='(68:37:1)' href='/wordmorphology.jsp?location=(68:37:1)'><img src='/wordimage?id=72970'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – coordinating conjunction <div class='arabicGrammar'> حرف عطف </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:37:2)</span><br><span class='phonetic'>lakum</span><br>(is) for you",
+"title": "<a name='(68:37:2)' href='/wordmorphology.jsp?location=(68:37:2)'><img src='/wordimage?id=72971'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 2nd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:37:3)</span><br><a href='/qurandictionary.jsp?q=ktb#(68:37:3)'>kitābun</a><br>a book",
+"title": "<a name='(68:37:3)' href='/wordmorphology.jsp?location=(68:37:3)'><img src='/wordimage?id=72972'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine indefinite noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:37:4)</span><br><span class='phonetic'>fīhi</span><br>wherein",
+"title": "<a name='(68:37:4)' href='/wordmorphology.jsp?location=(68:37:4)'><img src='/wordimage?id=72973'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:37:5)</span><br><a href='/qurandictionary.jsp?q=drs#(68:37:5)'>tadrusūna</a><br>you learn,",
+"title": "<img class='num' src='/images/verses/37.png'><a name='(68:37:5)' href='/wordmorphology.jsp?location=(68:37:5)'><img src='/wordimage?id=72974'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:38:1)</span><br><span class='phonetic'>inna</span><br>Indeed",
+"title": "<a name='(68:38:1)' href='/wordmorphology.jsp?location=(68:38:1)'><img src='/wordimage?id=72975'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle <div class='arabicGrammar'> حرف نصب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:38:2)</span><br><span class='phonetic'>lakum</span><br>for you",
+"title": "<a name='(68:38:2)' href='/wordmorphology.jsp?location=(68:38:2)'><img src='/wordimage?id=72976'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 2nd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:38:3)</span><br><span class='phonetic'>fīhi</span><br>in it",
+"title": "<a name='(68:38:3)' href='/wordmorphology.jsp?location=(68:38:3)'><img src='/wordimage?id=72977'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:38:4)</span><br><span class='phonetic'>lamā</span><br>what",
+"title": "<a name='(68:38:4)' href='/wordmorphology.jsp?location=(68:38:4)'><img src='/wordimage?id=72978'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segGold'>REL</b> – relative pronoun <div class='arabicGrammar'> اللام لام التوكيد <br>اسم موصول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:38:5)</span><br><a href='/qurandictionary.jsp?q=xyr#(68:38:5)'>takhayyarūna</a><br>you choose?",
+"title": "<img class='num' src='/images/verses/38.png'><a name='(68:38:5)' href='/wordmorphology.jsp?location=(68:38:5)'><img src='/wordimage?id=72979'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine plural (form V) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:1)</span><br><a href='qurandictionary.jsp?q=%3Eam#(68:39:1)'>am</a><br>Or",
+"title": "<a href='/wordmorphology.jsp?location=(68:39:1)'><img src='/wordimage?id=72980'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – coordinating conjunction <div class='arabicGrammar'> حرف عطف </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:2)</span><br><span class='phonetic'>lakum</span><br>for you",
+"title": "<a name='(68:39:2)' href='/wordmorphology.jsp?location=(68:39:2)'><img src='/wordimage?id=72981'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 2nd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:3)</span><br><a href='/qurandictionary.jsp?q=ymn#(68:39:3)'>aymānun</a><br>oaths",
+"title": "<a name='(68:39:3)' href='/wordmorphology.jsp?location=(68:39:3)'><img src='/wordimage?id=72982'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural indefinite noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:4)</span><br><span class='phonetic'>ʿalaynā</span><br>from us,",
+"title": "<a name='(68:39:4)' href='/wordmorphology.jsp?location=(68:39:4)'><img src='/wordimage?id=72983'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:5)</span><br><a href='/qurandictionary.jsp?q=blg#(68:39:5)'>bālighatun</a><br>reaching",
+"title": "<a name='(68:39:5)' href='/wordmorphology.jsp?location=(68:39:5)'><img src='/wordimage?id=72984'></a>",
+"thirdOne": "<b class='segPurple'>ADJ</b> – nominative feminine indefinite active participle <div class='arabicGrammar'> صفة مرفوعة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:6)</span><br><a href='qurandictionary.jsp?q=%3CilaY%60#(68:39:6)'>ilā</a><br>to",
+"title": "<a name='(68:39:6)' href='/wordmorphology.jsp?location=(68:39:6)'><img src='/wordimage?id=72985'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:7)</span><br><a href='/qurandictionary.jsp?q=ywm#(68:39:7)'>yawmi</a><br>(the) Day",
+"title": "<a name='(68:39:7)' href='/wordmorphology.jsp?location=(68:39:7)'><img src='/wordimage?id=72986'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun → <a href='/concept.jsp?id=day-of-resurrection'>Day of Resurrection</a> <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:8)</span><br><a href='/qurandictionary.jsp?q=qwm#(68:39:8)'>l-qiyāmati</a><br>(of) the Resurrection,",
+"title": "<a name='(68:39:8)' href='/wordmorphology.jsp?location=(68:39:8)'><img src='/wordimage?id=72987'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive feminine noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:9)</span><br><span class='phonetic'>inna</span><br>indeed,",
+"title": "<a name='(68:39:9)' href='/wordmorphology.jsp?location=(68:39:9)'><img src='/wordimage?id=72988'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle <div class='arabicGrammar'> حرف نصب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:10)</span><br><span class='phonetic'>lakum</span><br>for you",
+"title": "<a name='(68:39:10)' href='/wordmorphology.jsp?location=(68:39:10)'><img src='/wordimage?id=72989'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 2nd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:11)</span><br><span class='phonetic'>lamā</span><br>(is) what",
+"title": "<a name='(68:39:11)' href='/wordmorphology.jsp?location=(68:39:11)'><img src='/wordimage?id=72990'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segGold'>REL</b> – relative pronoun <div class='arabicGrammar'> اللام لام التوكيد <br>اسم موصول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:39:12)</span><br><a href='/qurandictionary.jsp?q=Hkm#(68:39:12)'>taḥkumūna</a><br>you judge?",
+"title": "<img class='num' src='/images/verses/39.png'><a name='(68:39:12)' href='/wordmorphology.jsp?location=(68:39:12)'><img src='/wordimage?id=72991'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:40:1)</span><br><a href='/qurandictionary.jsp?q=sAl#(68:40:1)'>salhum</a><br>Ask them,",
+"title": "<a name='(68:40:1)' href='/wordmorphology.jsp?location=(68:40:1)'><img src='/wordimage?id=72992'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine singular imperative verb<br><b class='segMetal'>PRON</b> – 3rd person masculine plural object pronoun <div class='arabicGrammar'> فعل أمر و«هم» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:40:2)</span><br><span class='phonetic'>ayyuhum</span><br>which of them",
+"title": "<a name='(68:40:2)' href='/wordmorphology.jsp?location=(68:40:2)'><img src='/wordimage?id=72993'></a>",
+"thirdOne": "<b class='segRose'>INTG</b> – nominative interrogative noun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural object pronoun <div class='arabicGrammar'> اسم استفهام مرفوع و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:40:3)</span><br><span class='phonetic'>bidhālika</span><br>for that",
+"title": "<a name='(68:40:3)' href='/wordmorphology.jsp?location=(68:40:3)'><img src='/wordimage?id=72994'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segBrown'>DEM</b> – masculine singular demonstrative pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:40:4)</span><br><a href='/qurandictionary.jsp?q=zEm#(68:40:4)'>zaʿīmun</a><br>(is) responsible.",
+"title": "<img class='num' src='/images/verses/40.png'><a name='(68:40:4)' href='/wordmorphology.jsp?location=(68:40:4)'><img src='/wordimage?id=72995'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine singular indefinite noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:1)</span><br><a href='qurandictionary.jsp?q=%3Eam#(68:41:1)'>am</a><br>Or",
+"title": "<a name='(68:41:1)' href='/wordmorphology.jsp?location=(68:41:1)'><img src='/wordimage?id=72996'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – coordinating conjunction <div class='arabicGrammar'> حرف عطف </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:2)</span><br><span class='phonetic'>lahum</span><br>(are) for them",
+"title": "<a name='(68:41:2)' href='/wordmorphology.jsp?location=(68:41:2)'><img src='/wordimage?id=72997'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 3rd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:3)</span><br><a href='/qurandictionary.jsp?q=$rk#(68:41:3)'>shurakāu</a><br>partners?",
+"title": "<a name='(68:41:3)' href='/wordmorphology.jsp?location=(68:41:3)'><img src='/wordimage?id=72998'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:4)</span><br><a href='/qurandictionary.jsp?q=Aty#(68:41:4)'>falyatū</a><br>Then let them bring",
+"title": "<a name='(68:41:4)' href='/wordmorphology.jsp?location=(68:41:4)'><img src='/wordimage?id=72999'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segPink'>IMPV</b> – prefixed imperative particle <i class='ab'>lām</i><br><b class='segSeagreen'>V</b> – 3rd person masculine plural imperfect verb, jussive mood<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الفاء استئنافية <br>اللام لام الامر <br>فعل مضارع مجزوم والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:5)</span><br><a href='/qurandictionary.jsp?q=$rk#(68:41:5)'>bishurakāihim</a><br>their partners,",
+"title": "<a name='(68:41:5)' href='/wordmorphology.jsp?location=(68:41:5)'><img src='/wordimage?id=73000'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive masculine plural noun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural possessive pronoun <div class='arabicGrammar'> جار ومجرور و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:6)</span><br><span class='phonetic'>in</span><br>if",
+"title": "<a name='(68:41:6)' href='/wordmorphology.jsp?location=(68:41:6)'><img src='/wordimage?id=73001'></a>",
+"thirdOne": "<b class='segOrange'>COND</b> – conditional particle <div class='arabicGrammar'> حرف شرط </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:7)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:41:7)'>kānū</a><br>they are",
+"title": "<a name='(68:41:7)' href='/wordmorphology.jsp?location=(68:41:7)'><img src='/wordimage?id=73002'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع اسم «كان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:41:8)</span><br><a href='/qurandictionary.jsp?q=Sdq#(68:41:8)'>ṣādiqīna</a><br>truthful.",
+"title": "<img class='num' src='/images/verses/41.png'><a name='(68:41:8)' href='/wordmorphology.jsp?location=(68:41:8)'><img src='/wordimage?id=73003'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine plural active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:1)</span><br><a href='/qurandictionary.jsp?q=ywm#(68:42:1)'>yawma</a><br>(The) Day",
+"title": "<a href='/wordmorphology.jsp?location=(68:42:1)'><img src='/wordimage?id=73004'></a>",
+"thirdOne": "<b class='segOrange'>T</b> – accusative masculine time adverb <div class='arabicGrammar'> ظرف زمان منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:2)</span><br><a href='/qurandictionary.jsp?q=k$f#(68:42:2)'>yuk'shafu</a><br>will be uncovered",
+"title": "<a name='(68:42:2)' href='/wordmorphology.jsp?location=(68:42:2)'><img src='/wordimage?id=73005'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular passive imperfect verb <div class='arabicGrammar'> فعل مضارع مبني للمجهول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:3)</span><br><span class='phonetic'>ʿan</span><br>from",
+"title": "<a name='(68:42:3)' href='/wordmorphology.jsp?location=(68:42:3)'><img src='/wordimage?id=73006'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:4)</span><br><a href='/qurandictionary.jsp?q=swq#(68:42:4)'>sāqin</a><br>the shin",
+"title": "<a name='(68:42:4)' href='/wordmorphology.jsp?location=(68:42:4)'><img src='/wordimage?id=73007'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:5)</span><br><a href='/qurandictionary.jsp?q=dEw#(68:42:5)'>wayud'ʿawna</a><br>and they will be called",
+"title": "<a name='(68:42:5)' href='/wordmorphology.jsp?location=(68:42:5)'><img src='/wordimage?id=73008'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine plural passive imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الواو عاطفة <br>فعل مضارع مبني للمجهول والواو ضمير متصل في محل رفع نائب فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:6)</span><br><a href='qurandictionary.jsp?q=%3CilaY%60#(68:42:6)'>ilā</a><br>to",
+"title": "<a name='(68:42:6)' href='/wordmorphology.jsp?location=(68:42:6)'><img src='/wordimage?id=73009'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:7)</span><br><a href='/qurandictionary.jsp?q=sjd#(68:42:7)'>l-sujūdi</a><br>prostrate,",
+"title": "<a name='(68:42:7)' href='/wordmorphology.jsp?location=(68:42:7)'><img src='/wordimage?id=73010'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:8)</span><br><span class='phonetic'>falā</span><br>but not",
+"title": "<a name='(68:42:8)' href='/wordmorphology.jsp?location=(68:42:8)'><img src='/wordimage?id=73011'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segRed'>NEG</b> – negative particle <div class='arabicGrammar'> الفاء استئنافية <br>حرف نفي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:42:9)</span><br><a href='/qurandictionary.jsp?q=TwE#(68:42:9)'>yastaṭīʿūna</a><br>they will be able,",
+"title": "<img class='num' src='/images/verses/42.png'><a name='(68:42:9)' href='/wordmorphology.jsp?location=(68:42:9)'><img src='/wordimage?id=73012'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural (form X) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:1)</span><br><a href='/qurandictionary.jsp?q=x$E#(68:43:1)'>khāshiʿatan</a><br>Humbled,",
+"title": "<a name='(68:43:1)' href='/wordmorphology.jsp?location=(68:43:1)'><img src='/wordimage?id=73013'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative feminine singular indefinite active participle <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:2)</span><br><a href='/qurandictionary.jsp?q=bSr#(68:43:2)'>abṣāruhum</a><br>their eyes,",
+"title": "<a name='(68:43:2)' href='/wordmorphology.jsp?location=(68:43:2)'><img src='/wordimage?id=73014'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural noun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural possessive pronoun <div class='arabicGrammar'> اسم مرفوع و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:3)</span><br><a href='/qurandictionary.jsp?q=rhq#(68:43:3)'>tarhaquhum</a><br>will cover them",
+"title": "<a name='(68:43:3)' href='/wordmorphology.jsp?location=(68:43:3)'><img src='/wordimage?id=73015'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person feminine singular imperfect verb<br><b class='segMetal'>PRON</b> – 3rd person masculine plural object pronoun <div class='arabicGrammar'> فعل مضارع و«هم» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:4)</span><br><a href='/qurandictionary.jsp?q=*ll#(68:43:4)'>dhillatun</a><br>humiliation.",
+"title": "<a name='(68:43:4)' href='/wordmorphology.jsp?location=(68:43:4)'><img src='/wordimage?id=73016'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative feminine indefinite noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:5)</span><br><span class='phonetic'>waqad</span><br>And indeed,",
+"title": "<a name='(68:43:5)' href='/wordmorphology.jsp?location=(68:43:5)'><img src='/wordimage?id=73017'></a>",
+"thirdOne": "<b class='segNavy'>CIRC</b> – prefixed circumstantial particle<br><b class='segPink'>CERT</b> – particle of certainty <div class='arabicGrammar'> الواو حالية <br>حرف تحقيق </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:6)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:43:6)'>kānū</a><br>they were",
+"title": "<a name='(68:43:6)' href='/wordmorphology.jsp?location=(68:43:6)'><img src='/wordimage?id=73018'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع اسم «كان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:7)</span><br><a href='/qurandictionary.jsp?q=dEw#(68:43:7)'>yud'ʿawna</a><br>called",
+"title": "<a name='(68:43:7)' href='/wordmorphology.jsp?location=(68:43:7)'><img src='/wordimage?id=73019'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural passive imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع مبني للمجهول والواو ضمير متصل في محل رفع نائب فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:8)</span><br><a href='qurandictionary.jsp?q=%3CilaY%60#(68:43:8)'>ilā</a><br>to",
+"title": "<a name='(68:43:8)' href='/wordmorphology.jsp?location=(68:43:8)'><img src='/wordimage?id=73020'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:9)</span><br><a href='/qurandictionary.jsp?q=sjd#(68:43:9)'>l-sujūdi</a><br>prostrate",
+"title": "<a name='(68:43:9)' href='/wordmorphology.jsp?location=(68:43:9)'><img src='/wordimage?id=73021'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:10)</span><br><span class='phonetic'>wahum</span><br>while they",
+"title": "<a name='(68:43:10)' href='/wordmorphology.jsp?location=(68:43:10)'><img src='/wordimage?id=73022'></a>",
+"thirdOne": "<b class='segNavy'>CIRC</b> – prefixed circumstantial particle<br><b class='segMetal'>PRON</b> – 3rd person masculine plural personal pronoun <div class='arabicGrammar'> الواو حالية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:43:11)</span><br><a href='/qurandictionary.jsp?q=slm#(68:43:11)'>sālimūna</a><br>(were) sound.",
+"title": "<img class='num' src='/images/verses/43.png'><a name='(68:43:11)' href='/wordmorphology.jsp?location=(68:43:11)'><img src='/wordimage?id=73023'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural active participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:1)</span><br><a href='/qurandictionary.jsp?q=w*r#(68:44:1)'>fadharnī</a><br>So leave Me",
+"title": "<a href='/wordmorphology.jsp?location=(68:44:1)'><img src='/wordimage?id=73024'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segSeagreen'>V</b> – 2nd person masculine singular imperative verb<br><b class='segMetal'>PRON</b> – 1st person singular object pronoun <div class='arabicGrammar'> الفاء استئنافية <br>فعل أمر والياء ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:2)</span><br><span class='phonetic'>waman</span><br>and whoever",
+"title": "<a name='(68:44:2)' href='/wordmorphology.jsp?location=(68:44:2)'><img src='/wordimage?id=73025'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segGold'>REL</b> – relative pronoun <div class='arabicGrammar'> الواو عاطفة <br>اسم موصول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:3)</span><br><a href='/qurandictionary.jsp?q=k*b#(68:44:3)'>yukadhibu</a><br>denies",
+"title": "<a name='(68:44:3)' href='/wordmorphology.jsp?location=(68:44:3)'><img src='/wordimage?id=73026'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular (form II) imperfect verb <div class='arabicGrammar'> فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:4)</span><br><span class='phonetic'>bihādhā</span><br>this",
+"title": "<a name='(68:44:4)' href='/wordmorphology.jsp?location=(68:44:4)'><img src='/wordimage?id=73027'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segBrown'>DEM</b> – masculine singular demonstrative pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:5)</span><br><a href='/qurandictionary.jsp?q=Hdv#(68:44:5)'>l-ḥadīthi</a><br>Statement,",
+"title": "<a name='(68:44:5)' href='/wordmorphology.jsp?location=(68:44:5)'><img src='/wordimage?id=73028'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:6)</span><br><a href='/qurandictionary.jsp?q=drj#(68:44:6)'>sanastadrijuhum</a><br>We will progressively lead them",
+"title": "<a name='(68:44:6)' href='/wordmorphology.jsp?location=(68:44:6)'><img src='/wordimage?id=73029'></a>",
+"thirdOne": "<b class='segPink'>FUT</b> – prefixed future particle <i class='ab'>sa</i><br><b class='segSeagreen'>V</b> – 1st person plural (form X) imperfect verb<br><b class='segMetal'>PRON</b> – 3rd person masculine plural object pronoun <div class='arabicGrammar'> حرف استقبال <br>فعل مضارع و«هم» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:7)</span><br><span class='phonetic'>min</span><br>from",
+"title": "<a name='(68:44:7)' href='/wordmorphology.jsp?location=(68:44:7)'><img src='/wordimage?id=73030'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:8)</span><br><a href='/qurandictionary.jsp?q=Hyv#(68:44:8)'>ḥaythu</a><br>where",
+"title": "<a name='(68:44:8)' href='/wordmorphology.jsp?location=(68:44:8)'><img src='/wordimage?id=73031'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:9)</span><br><span class='phonetic'>lā</span><br>not",
+"title": "<a name='(68:44:9)' href='/wordmorphology.jsp?location=(68:44:9)'><img src='/wordimage?id=73032'></a>",
+"thirdOne": "<b class='segRed'>NEG</b> – negative particle <div class='arabicGrammar'> حرف نفي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:44:10)</span><br><a href='/qurandictionary.jsp?q=Elm#(68:44:10)'>yaʿlamūna</a><br>they know.",
+"title": "<img class='num' src='/images/verses/44.png'><a name='(68:44:10)' href='/wordmorphology.jsp?location=(68:44:10)'><img src='/wordimage?id=73033'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:45:1)</span><br><a href='/qurandictionary.jsp?q=mlw#(68:45:1)'>wa-um'lī</a><br>And I will give respite",
+"title": "<a name='(68:45:1)' href='/wordmorphology.jsp?location=(68:45:1)'><img src='/wordimage?id=73034'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSeagreen'>V</b> – 1st person singular (form IV) imperfect verb <div class='arabicGrammar'> الواو عاطفة <br>فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:45:2)</span><br><span class='phonetic'>lahum</span><br>to them.",
+"title": "<a name='(68:45:2)' href='/wordmorphology.jsp?location=(68:45:2)'><img src='/wordimage?id=73035'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segMetal'>PRON</b> – 3rd person masculine plural personal pronoun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:45:3)</span><br><span class='phonetic'>inna</span><br>Indeed,",
+"title": "<a name='(68:45:3)' href='/wordmorphology.jsp?location=(68:45:3)'><img src='/wordimage?id=73036'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle <div class='arabicGrammar'> حرف نصب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:45:4)</span><br><a href='/qurandictionary.jsp?q=kyd#(68:45:4)'>kaydī</a><br>My plan",
+"title": "<a name='(68:45:4)' href='/wordmorphology.jsp?location=(68:45:4)'><img src='/wordimage?id=73037'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine noun<br><b class='segMetal'>PRON</b> – 1st person singular possessive pronoun <div class='arabicGrammar'> اسم منصوب والياء ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:45:5)</span><br><a href='/qurandictionary.jsp?q=mtn#(68:45:5)'>matīnun</a><br>(is) firm.",
+"title": "<img class='num' src='/images/verses/45.png'><a name='(68:45:5)' href='/wordmorphology.jsp?location=(68:45:5)'><img src='/wordimage?id=73038'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine singular indefinite noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:46:1)</span><br><a href='qurandictionary.jsp?q=%3Eam#(68:46:1)'>am</a><br>Or",
+"title": "<a name='(68:46:1)' href='/wordmorphology.jsp?location=(68:46:1)'><img src='/wordimage?id=73039'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – coordinating conjunction <div class='arabicGrammar'> حرف عطف </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:46:2)</span><br><a href='/qurandictionary.jsp?q=sAl#(68:46:2)'>tasaluhum</a><br>you ask them",
+"title": "<a name='(68:46:2)' href='/wordmorphology.jsp?location=(68:46:2)'><img src='/wordimage?id=73040'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine singular imperfect verb<br><b class='segMetal'>PRON</b> – 3rd person masculine plural object pronoun <div class='arabicGrammar'> فعل مضارع و«هم» ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:46:3)</span><br><a href='/qurandictionary.jsp?q=Ajr#(68:46:3)'>ajran</a><br>a payment,",
+"title": "<a name='(68:46:3)' href='/wordmorphology.jsp?location=(68:46:3)'><img src='/wordimage?id=73041'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine indefinite noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:46:4)</span><br><span class='phonetic'>fahum</span><br>so they",
+"title": "<a name='(68:46:4)' href='/wordmorphology.jsp?location=(68:46:4)'><img src='/wordimage?id=73042'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segMetal'>PRON</b> – 3rd person masculine plural personal pronoun <div class='arabicGrammar'> الفاء استئنافية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:46:5)</span><br><span class='phonetic'>min</span><br>from",
+"title": "<a name='(68:46:5)' href='/wordmorphology.jsp?location=(68:46:5)'><img src='/wordimage?id=73043'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:46:6)</span><br><a href='/qurandictionary.jsp?q=grm#(68:46:6)'>maghramin</a><br>(the) debt",
+"title": "<a name='(68:46:6)' href='/wordmorphology.jsp?location=(68:46:6)'><img src='/wordimage?id=73044'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine indefinite noun <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:46:7)</span><br><a href='/qurandictionary.jsp?q=vql#(68:46:7)'>muth'qalūna</a><br>(are) burdened?",
+"title": "<img class='num' src='/images/verses/46.png'><a name='(68:46:7)' href='/wordmorphology.jsp?location=(68:46:7)'><img src='/wordimage?id=73045'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine plural (form IV) passive participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:47:1)</span><br><a href='qurandictionary.jsp?q=%3Eam#(68:47:1)'>am</a><br>Or",
+"title": "<a name='(68:47:1)' href='/wordmorphology.jsp?location=(68:47:1)'><img src='/wordimage?id=73046'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – coordinating conjunction <div class='arabicGrammar'> حرف عطف </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:47:2)</span><br><a href='/qurandictionary.jsp?q=End#(68:47:2)'>ʿindahumu</a><br>(is) with them",
+"title": "<a name='(68:47:2)' href='/wordmorphology.jsp?location=(68:47:2)'><img src='/wordimage?id=73047'></a>",
+"thirdOne": "<b class='segOrange'>LOC</b> – accusative location adverb<br><b class='segMetal'>PRON</b> – 3rd person masculine plural possessive pronoun <div class='arabicGrammar'> ظرف مكان منصوب و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:47:3)</span><br><a href='/qurandictionary.jsp?q=gyb#(68:47:3)'>l-ghaybu</a><br>the unseen,",
+"title": "<a name='(68:47:3)' href='/wordmorphology.jsp?location=(68:47:3)'><img src='/wordimage?id=73048'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:47:4)</span><br><span class='phonetic'>fahum</span><br>so they",
+"title": "<a name='(68:47:4)' href='/wordmorphology.jsp?location=(68:47:4)'><img src='/wordimage?id=73049'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segMetal'>PRON</b> – 3rd person masculine plural personal pronoun <div class='arabicGrammar'> الفاء استئنافية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:47:5)</span><br><a href='/qurandictionary.jsp?q=ktb#(68:47:5)'>yaktubūna</a><br>write it?",
+"title": "<img class='num' src='/images/verses/47.png'><a name='(68:47:5)' href='/wordmorphology.jsp?location=(68:47:5)'><img src='/wordimage?id=73050'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:1)</span><br><a href='/qurandictionary.jsp?q=Sbr#(68:48:1)'>fa-iṣ'bir</a><br>So be patient",
+"title": "<a href='/wordmorphology.jsp?location=(68:48:1)'><img src='/wordimage?id=73051'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segSeagreen'>V</b> – 2nd person masculine singular imperative verb <div class='arabicGrammar'> الفاء استئنافية <br>فعل أمر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:2)</span><br><a href='/qurandictionary.jsp?q=Hkm#(68:48:2)'>liḥuk'mi</a><br>for (the) decision",
+"title": "<a name='(68:48:2)' href='/wordmorphology.jsp?location=(68:48:2)'><img src='/wordimage?id=73052'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segSky'>N</b> – genitive masculine noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:3)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:48:3)'>rabbika</a><br>(of) your Lord,",
+"title": "<a name='(68:48:3)' href='/wordmorphology.jsp?location=(68:48:3)'><img src='/wordimage?id=73053'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 2nd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم مجرور والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:4)</span><br><span class='phonetic'>walā</span><br>and (do) not",
+"title": "<a name='(68:48:4)' href='/wordmorphology.jsp?location=(68:48:4)'><img src='/wordimage?id=73054'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segRed'>PRO</b> – prohibition particle <div class='arabicGrammar'> الواو عاطفة <br>حرف نهي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:5)</span><br><a href='/qurandictionary.jsp?q=kwn#(68:48:5)'>takun</a><br>be",
+"title": "<a name='(68:48:5)' href='/wordmorphology.jsp?location=(68:48:5)'><img src='/wordimage?id=73055'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 2nd person masculine singular imperfect verb, jussive mood <div class='arabicGrammar'> فعل مضارع مجزوم </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:6)</span><br><a href='/qurandictionary.jsp?q=SHb#(68:48:6)'>kaṣāḥibi</a><br>like (the) companion",
+"title": "<a name='(68:48:6)' href='/wordmorphology.jsp?location=(68:48:6)'><img src='/wordimage?id=73056'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>ka</i><br><b class='segSky'>N</b> – genitive noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:7)</span><br><a href='/qurandictionary.jsp?q=Hwt#(68:48:7)'>l-ḥūti</a><br>(of) the fish,",
+"title": "<a name='(68:48:7)' href='/wordmorphology.jsp?location=(68:48:7)'><img src='/wordimage?id=73057'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun → <a href='/concept.jsp?id=fish'>Fish</a> <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:8)</span><br><a href='qurandictionary.jsp?q=%3Ci*#(68:48:8)'>idh</a><br>when",
+"title": "<a name='(68:48:8)' href='/wordmorphology.jsp?location=(68:48:8)'><img src='/wordimage?id=73058'></a>",
+"thirdOne": "<b class='segOrange'>T</b> – time adverb <div class='arabicGrammar'> ظرف زمان </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:9)</span><br><a href='/qurandictionary.jsp?q=ndw#(68:48:9)'>nādā</a><br>he called out,",
+"title": "<a name='(68:48:9)' href='/wordmorphology.jsp?location=(68:48:9)'><img src='/wordimage?id=73059'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular (form III) perfect verb <div class='arabicGrammar'> فعل ماض </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:10)</span><br><span class='phonetic'>wahuwa</span><br>while he",
+"title": "<a name='(68:48:10)' href='/wordmorphology.jsp?location=(68:48:10)'><img src='/wordimage?id=73060'></a>",
+"thirdOne": "<b class='segNavy'>CIRC</b> – prefixed circumstantial particle<br><b class='segMetal'>PRON</b> – 3rd person masculine singular personal pronoun <div class='arabicGrammar'> الواو حالية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:48:11)</span><br><a href='/qurandictionary.jsp?q=kZm#(68:48:11)'>makẓūmun</a><br>(was) distressed.",
+"title": "<img class='num' src='/images/verses/48.png'><a name='(68:48:11)' href='/wordmorphology.jsp?location=(68:48:11)'><img src='/wordimage?id=73061'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine indefinite passive participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:1)</span><br><span class='phonetic'>lawlā</span><br>If not",
+"title": "<a name='(68:49:1)' href='/wordmorphology.jsp?location=(68:49:1)'><img src='/wordimage?id=73062'></a>",
+"thirdOne": "<b class='segOrange'>COND</b> – conditional particle <div class='arabicGrammar'> حرف شرط </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:2)</span><br><span class='phonetic'>an</span><br>that",
+"title": "<a name='(68:49:2)' href='/wordmorphology.jsp?location=(68:49:2)'><img src='/wordimage?id=73063'></a>",
+"thirdOne": "<b class='segGold'>SUB</b> – subordinating conjunction <div class='arabicGrammar'> حرف مصدري </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:3)</span><br><a href='/qurandictionary.jsp?q=drk#(68:49:3)'>tadārakahu</a><br>overtook him",
+"title": "<a name='(68:49:3)' href='/wordmorphology.jsp?location=(68:49:3)'><img src='/wordimage?id=73064'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular (form VI) perfect verb<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> فعل ماض والهاء ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:4)</span><br><a href='/qurandictionary.jsp?q=nEm#(68:49:4)'>niʿ'matun</a><br>a Favor",
+"title": "<a name='(68:49:4)' href='/wordmorphology.jsp?location=(68:49:4)'><img src='/wordimage?id=73065'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative feminine indefinite noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:5)</span><br><span class='phonetic'>min</span><br>from",
+"title": "<a name='(68:49:5)' href='/wordmorphology.jsp?location=(68:49:5)'><img src='/wordimage?id=73066'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:6)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:49:6)'>rabbihi</a><br>his Lord,",
+"title": "<a name='(68:49:6)' href='/wordmorphology.jsp?location=(68:49:6)'><img src='/wordimage?id=73067'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 3rd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم مجرور والهاء ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:7)</span><br><a href='/qurandictionary.jsp?q=nb*#(68:49:7)'>lanubidha</a><br>surely he would have been thrown",
+"title": "<a name='(68:49:7)' href='/wordmorphology.jsp?location=(68:49:7)'><img src='/wordimage?id=73068'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segSeagreen'>V</b> – 3rd person masculine singular passive perfect verb <div class='arabicGrammar'> اللام لام التوكيد <br>فعل ماض مبني للمجهول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:8)</span><br><a href='/qurandictionary.jsp?q=Ery#(68:49:8)'>bil-ʿarāi</a><br>onto (the) naked shore",
+"title": "<a name='(68:49:8)' href='/wordmorphology.jsp?location=(68:49:8)'><img src='/wordimage?id=73069'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive masculine noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:9)</span><br><span class='phonetic'>wahuwa</span><br>while he",
+"title": "<a name='(68:49:9)' href='/wordmorphology.jsp?location=(68:49:9)'><img src='/wordimage?id=73070'></a>",
+"thirdOne": "<b class='segNavy'>CIRC</b> – prefixed circumstantial particle<br><b class='segMetal'>PRON</b> – 3rd person masculine singular personal pronoun <div class='arabicGrammar'> الواو حالية <br>ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:49:10)</span><br><a href='/qurandictionary.jsp?q=*mm#(68:49:10)'>madhmūmun</a><br>(was) blamed.",
+"title": "<img class='num' src='/images/verses/49.png'><a name='(68:49:10)' href='/wordmorphology.jsp?location=(68:49:10)'><img src='/wordimage?id=73071'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine indefinite passive participle <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:50:1)</span><br><a href='/qurandictionary.jsp?q=jby#(68:50:1)'>fa-ij'tabāhu</a><br>But chose him,",
+"title": "<a name='(68:50:1)' href='/wordmorphology.jsp?location=(68:50:1)'><img src='/wordimage?id=73072'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segSeagreen'>V</b> – 3rd person masculine singular (form VIII) perfect verb<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> الفاء استئنافية <br>فعل ماض والهاء ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:50:2)</span><br><a href='/qurandictionary.jsp?q=rbb#(68:50:2)'>rabbuhu</a><br>his Lord,",
+"title": "<a name='(68:50:2)' href='/wordmorphology.jsp?location=(68:50:2)'><img src='/wordimage?id=73073'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine noun<br><b class='segMetal'>PRON</b> – 3rd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم مرفوع والهاء ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:50:3)</span><br><a href='/qurandictionary.jsp?q=jEl#(68:50:3)'>fajaʿalahu</a><br>and made him",
+"title": "<a name='(68:50:3)' href='/wordmorphology.jsp?location=(68:50:3)'><img src='/wordimage?id=73074'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>fa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine singular perfect verb<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> الفاء عاطفة <br>فعل ماض والهاء ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:50:4)</span><br><span class='phonetic'>mina</span><br>of",
+"title": "<a name='(68:50:4)' href='/wordmorphology.jsp?location=(68:50:4)'><img src='/wordimage?id=73075'></a>",
+"thirdOne": "<b class='segRust'>P</b> – preposition <div class='arabicGrammar'> حرف جر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:50:5)</span><br><a href='/qurandictionary.jsp?q=SlH#(68:50:5)'>l-ṣāliḥīna</a><br>the righteous.",
+"title": "<img class='num' src='/images/verses/50.png'><a name='(68:50:5)' href='/wordmorphology.jsp?location=(68:50:5)'><img src='/wordimage?id=73076'></a>",
+"thirdOne": "<b class='segSky'>N</b> – genitive masculine plural active participle <div class='arabicGrammar'> اسم مجرور </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:1)</span><br><span class='phonetic'>wa-in</span><br>And indeed,",
+"title": "<a href='/wordmorphology.jsp?location=(68:51:1)'><img src='/wordimage?id=73077'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segPink'>CERT</b> – particle of certainty <div class='arabicGrammar'> الواو استئنافية <br>حرف تحقيق </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:2)</span><br><a href='/qurandictionary.jsp?q=kwd#(68:51:2)'>yakādu</a><br>would almost",
+"title": "<a name='(68:51:2)' href='/wordmorphology.jsp?location=(68:51:2)'><img src='/wordimage?id=73078'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine singular imperfect verb <div class='arabicGrammar'> فعل مضارع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:3)</span><br><a href='qurandictionary.jsp?q=%7Bl%7Ea*iY#(68:51:3)'>alladhīna</a><br>those who",
+"title": "<a name='(68:51:3)' href='/wordmorphology.jsp?location=(68:51:3)'><img src='/wordimage?id=73079'></a>",
+"thirdOne": "<b class='segGold'>REL</b> – masculine plural relative pronoun <div class='arabicGrammar'> اسم موصول </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:4)</span><br><a href='/qurandictionary.jsp?q=kfr#(68:51:4)'>kafarū</a><br>disbelieve,",
+"title": "<a name='(68:51:4)' href='/wordmorphology.jsp?location=(68:51:4)'><img src='/wordimage?id=73080'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:5)</span><br><a href='/qurandictionary.jsp?q=zlq#(68:51:5)'>layuz'liqūnaka</a><br>surely make you slip",
+"title": "<a name='(68:51:5)' href='/wordmorphology.jsp?location=(68:51:5)'><img src='/wordimage?id=73081'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segSeagreen'>V</b> – 3rd person masculine plural (form IV) imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun<br><b class='segMetal'>PRON</b> – 2nd person masculine singular object pronoun <div class='arabicGrammar'> اللام لام التوكيد <br>فعل مضارع والواو ضمير متصل في محل رفع فاعل والكاف ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:6)</span><br><a href='/qurandictionary.jsp?q=bSr#(68:51:6)'>bi-abṣārihim</a><br>with their look",
+"title": "<a name='(68:51:6)' href='/wordmorphology.jsp?location=(68:51:6)'><img src='/wordimage?id=73082'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>bi</i><br><b class='segSky'>N</b> – genitive masculine plural noun<br><b class='segMetal'>PRON</b> – 3rd person masculine plural possessive pronoun <div class='arabicGrammar'> جار ومجرور و«هم» ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:7)</span><br><span class='phonetic'>lammā</span><br>when",
+"title": "<a name='(68:51:7)' href='/wordmorphology.jsp?location=(68:51:7)'><img src='/wordimage?id=73083'></a>",
+"thirdOne": "<b class='segOrange'>T</b> – time adverb <div class='arabicGrammar'> ظرف زمان </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:8)</span><br><a href='/qurandictionary.jsp?q=smE#(68:51:8)'>samiʿū</a><br>they hear",
+"title": "<a name='(68:51:8)' href='/wordmorphology.jsp?location=(68:51:8)'><img src='/wordimage?id=73084'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 3rd person masculine plural perfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> فعل ماض والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:9)</span><br><a href='/qurandictionary.jsp?q=*kr#(68:51:9)'>l-dhik'ra</a><br>the Message,",
+"title": "<a name='(68:51:9)' href='/wordmorphology.jsp?location=(68:51:9)'><img src='/wordimage?id=73085'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine verbal noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:10)</span><br><a href='/qurandictionary.jsp?q=qwl#(68:51:10)'>wayaqūlūna</a><br>and they say,",
+"title": "<a name='(68:51:10)' href='/wordmorphology.jsp?location=(68:51:10)'><img src='/wordimage?id=73086'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSeagreen'>V</b> – 3rd person masculine plural imperfect verb<br><b class='segSky'>PRON</b> – subject pronoun <div class='arabicGrammar'> الواو عاطفة <br>فعل مضارع والواو ضمير متصل في محل رفع فاعل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:11)</span><br><span class='phonetic'>innahu</span><br>'Indeed, he",
+"title": "<a name='(68:51:11)' href='/wordmorphology.jsp?location=(68:51:11)'><img src='/wordimage?id=73087'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 3rd person masculine singular object pronoun <div class='arabicGrammar'> حرف نصب والهاء ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:51:12)</span><br><a href='/qurandictionary.jsp?q=jnn#(68:51:12)'>lamajnūnun</a><br>(is) surely mad.'",
+"title": "<img class='num' src='/images/verses/51.png'><a name='(68:51:12)' href='/wordmorphology.jsp?location=(68:51:12)'><img src='/wordimage?id=73088'></a>",
+"thirdOne": "<b class='segPink'>EMPH</b> – emphatic prefix <i class='ab'>lām</i><br><b class='segSky'>N</b> – nominative masculine indefinite passive participle <div class='arabicGrammar'> اللام لام التوكيد <br>اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:52:1)</span><br><span class='phonetic'>wamā</span><br>And not",
+"title": "<a name='(68:52:1)' href='/wordmorphology.jsp?location=(68:52:1)'><img src='/wordimage?id=73089'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segRed'>NEG</b> – negative particle <div class='arabicGrammar'> الواو استئنافية <br>حرف نفي </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:52:2)</span><br><span class='phonetic'>huwa</span><br>it (is)",
+"title": "<a name='(68:52:2)' href='/wordmorphology.jsp?location=(68:52:2)'><img src='/wordimage?id=73090'></a>",
+"thirdOne": "<b class='segMetal'>PRON</b> – 3rd person masculine singular personal pronoun <div class='arabicGrammar'> ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:52:3)</span><br><a href='qurandictionary.jsp?q=%3Cil%7EaA#(68:52:3)'>illā</a><br>but",
+"title": "<a name='(68:52:3)' href='/wordmorphology.jsp?location=(68:52:3)'><img src='/wordimage?id=73091'></a>",
+"thirdOne": "<b class='segPink'>RES</b> – restriction particle <div class='arabicGrammar'> أداة حصر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:52:4)</span><br><a href='/qurandictionary.jsp?q=*kr#(68:52:4)'>dhik'run</a><br>a Reminder",
+"title": "<a name='(68:52:4)' href='/wordmorphology.jsp?location=(68:52:4)'><img src='/wordimage?id=73092'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine indefinite verbal noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(68:52:5)</span><br><a href='/qurandictionary.jsp?q=Elm#(68:52:5)'>lil'ʿālamīna</a><br>to the worlds.",
+"title": "<img class='num' src='/images/verses/52.png'><a name='(68:52:5)' href='/wordmorphology.jsp?location=(68:52:5)'><img src='/wordimage?id=73093'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segSky'>N</b> – genitive masculine plural noun <div class='arabicGrammar'> جار ومجرور </div>",
+"nodes": null
+}
+]
+}

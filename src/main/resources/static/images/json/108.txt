@@ -1,0 +1,67 @@
+{
+"url": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=",
+"title": null,
+"thirdOne": null,
+"nodes": [
+{
+"url": "<span class='location'>(108:1:1)</span><br><span class='phonetic'>innā</span><br>Indeed, We,",
+"title": "<a href='/wordmorphology.jsp?location=(108:1:1)'><img src='/wordimage?id=77294'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle<br><b class='segMetal'>PRON</b> – 1st person plural object pronoun <div class='arabicGrammar'> حرف نصب و«نا» ضمير متصل في محل نصب اسم «ان» </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:1:2)</span><br><a href='/qurandictionary.jsp?q=ETw#(108:1:2)'>aʿṭaynāka</a><br>We have given you",
+"title": "<a name='(108:1:2)' href='/wordmorphology.jsp?location=(108:1:2)'><img src='/wordimage?id=77295'></a>",
+"thirdOne": "<b class='segSeagreen'>V</b> – 1st person plural (form IV) perfect verb<br><b class='segSky'>PRON</b> – subject pronoun<br><b class='segMetal'>PRON</b> – 2nd person masculine singular object pronoun <div class='arabicGrammar'> فعل ماض و«نا» ضمير متصل في محل رفع فاعل والكاف ضمير متصل في محل نصب مفعول به </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:1:3)</span><br><a href='/qurandictionary.jsp?q=kvr#(108:1:3)'>l-kawthara</a><br>Al-Kauthar,",
+"title": "<img class='num' src='/images/verses/1.png'><a name='(108:1:3)' href='/wordmorphology.jsp?location=(108:1:3)'><img src='/wordimage?id=77296'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine noun <div class='arabicGrammar'> اسم منصوب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:2:1)</span><br><a href='/qurandictionary.jsp?q=Slw#(108:2:1)'>faṣalli</a><br>So pray",
+"title": "<a name='(108:2:1)' href='/wordmorphology.jsp?location=(108:2:1)'><img src='/wordimage?id=77297'></a>",
+"thirdOne": "<b class='segNavy'>REM</b> – prefixed resumption particle<br><b class='segSeagreen'>V</b> – 2nd person masculine singular (form II) imperative verb <div class='arabicGrammar'> الفاء استئنافية <br>فعل أمر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:2:2)</span><br><a href='/qurandictionary.jsp?q=rbb#(108:2:2)'>lirabbika</a><br>to your Lord",
+"title": "<a name='(108:2:2)' href='/wordmorphology.jsp?location=(108:2:2)'><img src='/wordimage?id=77298'></a>",
+"thirdOne": "<b class='segRust'>P</b> – prefixed preposition <i class='ab'>lām</i><br><b class='segSky'>N</b> – genitive masculine noun<br><b class='segMetal'>PRON</b> – 2nd person masculine singular possessive pronoun <div class='arabicGrammar'> جار ومجرور والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:2:3)</span><br><a href='/qurandictionary.jsp?q=nHr#(108:2:3)'>wa-in'ḥar</a><br>and sacrifice.",
+"title": "<img class='num' src='/images/verses/2.png'><a name='(108:2:3)' href='/wordmorphology.jsp?location=(108:2:3)'><img src='/wordimage?id=77299'></a>",
+"thirdOne": "<b class='segNavy'>CONJ</b> – prefixed conjunction <i class='ab'>wa</i> (and)<br><b class='segSeagreen'>V</b> – 2nd person masculine singular imperative verb <div class='arabicGrammar'> الواو عاطفة <br>فعل أمر </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:3:1)</span><br><span class='phonetic'>inna</span><br>Indeed,",
+"title": "<a name='(108:3:1)' href='/wordmorphology.jsp?location=(108:3:1)'><img src='/wordimage?id=77300'></a>",
+"thirdOne": "<b class='segPink'>ACC</b> – accusative particle <div class='arabicGrammar'> حرف نصب </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:3:2)</span><br><a href='/qurandictionary.jsp?q=$nA#(108:3:2)'>shāni-aka</a><br>your enemy -",
+"title": "<a name='(108:3:2)' href='/wordmorphology.jsp?location=(108:3:2)'><img src='/wordimage?id=77301'></a>",
+"thirdOne": "<b class='segSky'>N</b> – accusative masculine active participle<br><b class='segMetal'>PRON</b> – 2nd person masculine singular possessive pronoun <div class='arabicGrammar'> اسم منصوب والكاف ضمير متصل في محل جر بالاضافة </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:3:3)</span><br><span class='phonetic'>huwa</span><br>he (is)",
+"title": "<a name='(108:3:3)' href='/wordmorphology.jsp?location=(108:3:3)'><img src='/wordimage?id=77302'></a>",
+"thirdOne": "<b class='segMetal'>PRON</b> – 3rd person masculine singular personal pronoun <div class='arabicGrammar'> ضمير منفصل </div>",
+"nodes": null
+},
+{
+"url": "<span class='location'>(108:3:4)</span><br><a href='/qurandictionary.jsp?q=btr#(108:3:4)'>l-abtaru</a><br>the one cut off.",
+"title": "<img class='num' src='/images/verses/3.png'><a name='(108:3:4)' href='/wordmorphology.jsp?location=(108:3:4)'><img src='/wordimage?id=77303'></a>",
+"thirdOne": "<b class='segSky'>N</b> – nominative masculine noun <div class='arabicGrammar'> اسم مرفوع </div>",
+"nodes": null
+}
+]
+}
