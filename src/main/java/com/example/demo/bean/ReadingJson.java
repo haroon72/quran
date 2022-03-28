@@ -27,7 +27,7 @@ import org.springframework.stereotype.Component;
 public class ReadingJson
 {
     @Autowired
-    private QuranService quranService;
+    private QuranService quranService;//Testing
 
     @Autowired
     private VerseService verseService;
